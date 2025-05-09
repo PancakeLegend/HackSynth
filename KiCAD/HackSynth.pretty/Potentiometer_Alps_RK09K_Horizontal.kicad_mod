@@ -1,0 +1,289 @@
+(footprint "Potentiometer_Alps_RK09K_Horizontal"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Potentiometer, horizontally mounted, Omeg PC16PU, Omeg PC16PU, Omeg PC16PU, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GH/249GH Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148A/149A Single with mounting plates, Vishay/Spectrol 148/149 Double, Vishay/Spectrol 148A/149A Double with mounting plates, Piher PC-16 Single, Piher PC-16 Single, Piher PC-16 Single, Piher PC-16SV Single, Piher PC-16 Double, Piher PC-16 Triple, Piher T16H Single, Piher T16L Single, Piher T16H Double, Alps RK163 Single, Alps RK163 Double, Alps RK097 Single, Alps RK097 Double, Bourns PTV09A-2 Single with mounting sleve Single, Bourns PTV09A-1 with mounting sleve Single, Bourns PRS11S Single, Alps RK09K Single with mounting sleve Single, Alps RK09K with mounting sleve Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09K/RK09D1130C1B.html")
+	(tags "Potentiometer horizontal  Omeg PC16PU  Omeg PC16PU  Omeg PC16PU  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GH/249GH Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148A/149A Single with mounting plates  Vishay/Spectrol 148/149 Double  Vishay/Spectrol 148A/149A Double with mounting plates  Piher PC-16 Single  Piher PC-16 Single  Piher PC-16 Single  Piher PC-16SV Single  Piher PC-16 Double  Piher PC-16 Triple  Piher T16H Single  Piher T16L Single  Piher T16H Double  Alps RK163 Single  Alps RK163 Double  Alps RK097 Single  Alps RK097 Double  Bourns PTV09A-2 Single with mounting sleve Single  Bourns PTV09A-1 with mounting sleve Single  Bourns PRS11S Single  Alps RK09K Single with mounting sleve Single  Alps RK09K with mounting sleve Single")
+	(property "Reference" "RV1"
+		(at 0 -7 0)
+		(layer "F.SilkS")
+		(uuid "3bc0e778-a7a4-405f-afb8-6e5f934fa3a5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Pot"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "9b492730-bde0-407a-8853-79b8e74b3135")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3ce190d7-ccf0-428c-92c1-7218cd0cb786")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Potentiometer"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "59628b73-42d4-483e-b6d4-801e74b88c27")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -4.9 -2.099999)
+		(end -4.899999 -5.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7e0f19f6-be84-415f-8900-21c31d6d3dde")
+	)
+	(fp_line
+		(start -4.899999 5.5)
+		(end -4.899999 2.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bf740032-5039-49e8-8575-1a3528aaf196")
+	)
+	(fp_line
+		(start -4.899999 5.5)
+		(end 4.899999 5.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "491c8d38-1783-4aa0-8fef-7e69fec999dc")
+	)
+	(fp_line
+		(start 4.899999 -5.5)
+		(end -4.899999 -5.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "050b09cb-582b-4572-a1fe-9a84be5e7a92")
+	)
+	(fp_line
+		(start 4.899999 -2.1)
+		(end 4.899999 -5.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2a69e75c-dde8-45ba-abbc-3866de9d0dc6")
+	)
+	(fp_line
+		(start 4.899999 5.5)
+		(end 4.9 2.099999)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "02ff7026-2f29-4f1f-85cb-f8d5ccda56e1")
+	)
+	(fp_arc
+		(start -2.720293 -1.360147)
+		(mid -0.022361 -3.041298)
+		(end 2.699999 -1.399999)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4b95da98-b709-4aac-b938-8c6fdcf55037")
+	)
+	(fp_arc
+		(start 2.720293 1.360147)
+		(mid 0.022361 3.041298)
+		(end -2.699999 1.399999)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bfce4cb6-3998-496d-9b83-d73c1ef98e46")
+	)
+	(fp_line
+		(start -6.65 -6.25)
+		(end -6.65 8.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "815105a2-47b4-4513-8dee-021c194c4be1")
+	)
+	(fp_line
+		(start -6.65 8.15)
+		(end 6.65 8.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c36a6253-146b-4445-8202-3232ebca723a")
+	)
+	(fp_line
+		(start 6.65 -6.25)
+		(end -6.65 -6.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "71dfa1d8-9bef-44a0-bb6a-1368c2c1b57c")
+	)
+	(fp_line
+		(start 6.65 8.15)
+		(end 6.65 -6.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f8528aee-431d-4432-8720-58e42fae56ee")
+	)
+	(fp_line
+		(start -4.8 -5.4)
+		(end 4.8 -5.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "99ea4109-e8ee-43b5-b848-35e6298935e4")
+	)
+	(fp_line
+		(start -4.8 5.4)
+		(end -4.8 -5.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ed613e9c-d866-4969-87fd-3f20993918c0")
+	)
+	(fp_line
+		(start 4.8 -5.4)
+		(end 4.8 5.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3ca15202-130e-434c-bbd7-1e5c66de2907")
+	)
+	(fp_line
+		(start 4.8 5.4)
+		(end -4.8 5.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2dc0c057-e7c9-499a-9f5b-efe350ef3fea")
+	)
+	(fp_circle
+		(center 0 0)
+		(end -2.7 -1.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "2fd73979-6447-45b5-b77d-2bc620e6d311")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -3.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "2da930ff-141d-490c-bfdd-79d6ff8b90ff")
+	)
+	(pad "" np_thru_hole circle
+		(at -4.4 0 90)
+		(size 4 4)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(uuid "5443836c-9f8a-4214-9f50-91a2e1c7dfa6")
+	)
+	(pad "" np_thru_hole circle
+		(at 4.4 0 90)
+		(size 4 4)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(uuid "4cb936a7-432f-4a46-92fd-29a7ebbcf8c4")
+	)
+	(pad "1" thru_hole oval
+		(at 2.500001 7 90)
+		(size 2.4 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "09959527-4d76-458b-9b2b-066e1a6b9b30")
+	)
+	(pad "2" thru_hole oval
+		(at 0 7 90)
+		(size 2.4 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8a16374d-78a5-464b-bd1b-cb9f95c08d92")
+	)
+	(pad "3" thru_hole oval
+		(at -2.500001 7 90)
+		(size 2.4 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "de27c2fb-c7b5-4a67-930e-0a74c28efddb")
+	)
+	(embedded_fonts no)
+	(model "Potentiometers.3dshapes/Potentiometer_Alps_RK09K_Horizontal.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 0.393701 0.393701 0.393701)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
