@@ -245,8 +245,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "HackSynth"
+    ],
+    "pinned_symbol_libs": [
+      "HackSynth"
+    ]
   },
   "meta": {
     "filename": "VCO.kicad_pro",
