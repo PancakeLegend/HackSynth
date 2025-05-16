@@ -281,11 +281,7 @@
       "version": 4
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "unconnected-(R22-Pad1)": [
-        "pwm"
-      ]
-    },
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
