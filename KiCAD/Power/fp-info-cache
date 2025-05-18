@@ -1,4 +1,4 @@
-25257768674957269
+25259516233492337
 177
 125 x 50
 
@@ -59177,6 +59177,13 @@ Diode A-405 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7m
 0
 2
 2
+HackSynth
+J172_TO-92_Inline - Handsolder
+TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
 HackSynth
 JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal
 JST PH series connector, S3B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
