@@ -1,4 +1,4 @@
-25250778474817857
+25257768674957269
 177
 125 x 50
 
@@ -59164,6 +59164,13 @@ barrel jack cui dc power
 5
 4
 HackSynth
+CP_Radial_D10.0mm_P5.00mm_MidMount
+CP, Radial series, Radial, pin pitch=5.00mm, diameter=10mm, height=16mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 5.00mm diameter 10mm height 16mm Electrolytic Capacitor
+0
+2
+2
+HackSynth
 D_A-405_P7.62mm_Horizontal
 Diode, A-405 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
 Diode A-405 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm
@@ -59185,12 +59192,26 @@ WQP-PJ398SM WQP-PJ301M-12 TRS 3.5mm mono vertical jack thonkiconn qingpu
 3
 3
 HackSynth
+LM317 - TO-220-3_Horizontal_TabDown
+TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Horizontal RM 2.54mm
+0
+4
+4
+HackSynth
 LM317 - TO-220-3_Vertical
 TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
 TO-220-3 Vertical RM 2.54mm
 0
 3
 3
+HackSynth
+LM337 - TO-220-3_Horizontal_TabDown
+TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Horizontal RM 2.54mm
+0
+4
+4
 HackSynth
 LM337 - TO-220-3_Vertical
 TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
@@ -59219,6 +59240,13 @@ to-92 sc-43 sc-43a sot54 PA33 transistor
 0
 3
 3
+HackSynth
+TO-220-3_Horizontal_TabDown
+TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Horizontal RM 2.54mm
+0
+4
+4
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
