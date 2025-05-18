@@ -2168,6 +2168,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Check Pin Order on Footprint"
+		(exclude_from_sim no)
+		(at 107.696 72.39 0)
+		(effects
+			(font
+				(size 2 2)
+			)
+		)
+		(uuid "256a1278-b265-46bb-adce-0c26d7e02ee5")
+	)
 	(text "V/OCT TRIM"
 		(exclude_from_sim no)
 		(at 68.834 103.886 0)

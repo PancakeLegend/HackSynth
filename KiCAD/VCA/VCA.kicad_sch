@@ -1219,6 +1219,65 @@
 			(embedded_fonts no)
 		)
 	)
+	(circle
+		(center 160.02 53.34)
+		(radius 3.5921)
+		(stroke
+			(width 0.3)
+			(type solid)
+			(color 255 1 16 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 47e8106d-cf6e-4e0e-bd34-85588f12da1d)
+	)
+	(circle
+		(center 233.934 55.88)
+		(radius 2.54)
+		(stroke
+			(width 0.3)
+			(type solid)
+			(color 255 1 16 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid d34ea4e8-fefc-4692-9f91-73596f8f6609)
+	)
+	(text "Is this an error in the original schematic?"
+		(exclude_from_sim no)
+		(at 206.502 42.926 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a62974be-9ff2-4547-98d8-160a4e85bbbb")
+	)
+	(text "Where do the trimpots go?"
+		(exclude_from_sim no)
+		(at 208.28 109.474 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b5f29df6-9de8-466c-ab65-917342e0065d")
+	)
+	(text "What are the resistor values?\n"
+		(exclude_from_sim no)
+		(at 208.28 115.824 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d27d02e7-288b-4c5b-a90c-11b92e8ccf7f")
+	)
 	(junction
 		(at 119.38 55.88)
 		(diameter 0)
@@ -1427,6 +1486,26 @@
 	)
 	(wire
 		(pts
+			(xy 154.94 54.61) (xy 154.94 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87da05ad-c258-4347-94ab-c6fa956f2e16")
+	)
+	(wire
+		(pts
+			(xy 154.94 72.39) (xy 154.94 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3af223a-f80a-4d93-b1a8-575f8fba9a48")
+	)
+	(wire
+		(pts
 			(xy 181.61 52.07) (xy 181.61 54.61)
 		)
 		(stroke
@@ -1467,7 +1546,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 81.28) (xy 158.75 81.28)
+			(xy 142.24 81.28) (xy 167.64 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1487,7 +1566,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 81.28) (xy 168.91 81.28)
+			(xy 175.26 81.28) (xy 181.61 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1527,7 +1606,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 81.28) (xy 168.91 100.33)
+			(xy 181.61 81.28) (xy 181.61 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1546,7 +1625,7 @@
 		(uuid "fca0c5fc-4701-4d62-84ff-77c24de27a44")
 	)
 	(image
-		(at 213.36 89.408)
+		(at 228.854 66.548)
 		(scale 0.270973)
 		(uuid "ffb5342b-f578-49ad-ac62-cb2f17113cdd")
 		(data "/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK"
@@ -2152,12 +2231,48 @@
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAADzsX4AMkBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcM6w"
+			"+ADKAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGXOo/gAywGAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAABazp74AMwBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
 		)
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 154.94 71.12 180)
+		(at 154.94 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2166,7 +2281,7 @@
 		(fields_autoplaced yes)
 		(uuid "07397256-cca1-4ee4-9305-335507654350")
 		(property "Reference" "#PWR02"
-			(at 154.94 67.31 0)
+			(at 154.94 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2175,15 +2290,16 @@
 			)
 		)
 		(property "Value" "VDD"
-			(at 154.94 76.2 0)
+			(at 157.48 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 71.12 0)
+			(at 154.94 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2192,7 +2308,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 71.12 0)
+			(at 154.94 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2201,7 +2317,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 154.94 71.12 0)
+			(at 154.94 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2223,7 +2339,7 @@
 	)
 	(symbol
 		(lib_id "power:VSS")
-		(at 154.94 55.88 0)
+		(at 154.94 72.39 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2232,7 +2348,7 @@
 		(fields_autoplaced yes)
 		(uuid "111f312c-d3e3-48da-a642-dc458aa2b336")
 		(property "Reference" "#PWR01"
-			(at 154.94 59.69 0)
+			(at 154.94 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2241,15 +2357,16 @@
 			)
 		)
 		(property "Value" "VSS"
-			(at 154.94 50.8 0)
+			(at 157.48 73.6599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 55.88 0)
+			(at 154.94 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2258,7 +2375,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 55.88 0)
+			(at 154.94 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2267,7 +2384,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VSS\""
-			(at 154.94 55.88 0)
+			(at 154.94 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2362,7 +2479,7 @@
 	)
 	(symbol
 		(lib_id "HackSynth:R")
-		(at 162.56 81.28 90)
+		(at 171.45 81.28 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2371,15 +2488,15 @@
 		(fields_autoplaced yes)
 		(uuid "49c2466c-153a-4c98-b146-41d378b1f9e4")
 		(property "Reference" "R4"
-			(at 162.56 74.93 90)
+			(at 171.45 74.93 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "10k"
-			(at 162.56 77.47 90)
+		(property "Value" "?"
+			(at 171.45 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2387,7 +2504,7 @@
 			)
 		)
 		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 162.56 83.058 90)
+			(at 171.45 83.058 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2396,7 +2513,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 162.56 81.28 0)
+			(at 171.45 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2405,7 +2522,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 162.56 81.28 0)
+			(at 171.45 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2497,7 +2614,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_Trim")
-		(at 119.38 119.38 0)
+		(at 219.71 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2506,7 +2623,7 @@
 		(fields_autoplaced yes)
 		(uuid "5f2402c8-8352-4a88-9e8b-22b08b923761")
 		(property "Reference" "RV1"
-			(at 116.84 118.1099 0)
+			(at 217.17 96.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2514,8 +2631,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Trim Pot"
-			(at 116.84 120.6499 0)
+		(property "Value" "100k Trim Pot"
+			(at 217.17 99.0599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2524,7 +2641,7 @@
 			)
 		)
 		(property "Footprint" "HackSynth:TrimPot_Bourns_3339S_Horizontal"
-			(at 119.38 119.38 0)
+			(at 219.71 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2533,7 +2650,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 119.38 119.38 0)
+			(at 219.71 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2542,7 +2659,7 @@
 			)
 		)
 		(property "Description" "Trim-potentiometer"
-			(at 119.38 119.38 0)
+			(at 219.71 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2657,7 +2774,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "?"
 			(at 125.73 62.23 90)
 			(effects
 				(font
@@ -2933,7 +3050,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_Trim")
-		(at 158.75 119.38 0)
+		(at 243.84 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2942,7 +3059,7 @@
 		(fields_autoplaced yes)
 		(uuid "a5aa4818-b94f-47c8-a1e4-8e755c4db431")
 		(property "Reference" "RV2"
-			(at 156.21 118.1099 0)
+			(at 241.3 96.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2950,8 +3067,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Trim Pot"
-			(at 156.21 120.6499 0)
+		(property "Value" "1k Trim Pot"
+			(at 241.3 99.0599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2960,7 +3077,7 @@
 			)
 		)
 		(property "Footprint" "HackSynth:TrimPot_Bourns_3339S_Horizontal"
-			(at 158.75 119.38 0)
+			(at 243.84 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2969,7 +3086,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 158.75 119.38 0)
+			(at 243.84 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2978,7 +3095,7 @@
 			)
 		)
 		(property "Description" "Trim-potentiometer"
-			(at 158.75 119.38 0)
+			(at 243.84 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3294,7 +3411,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "?"
 			(at 157.48 43.18 90)
 			(effects
 				(font
@@ -3483,7 +3600,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 168.91 100.33 0)
+		(at 181.61 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3492,7 +3609,7 @@
 		(fields_autoplaced yes)
 		(uuid "e2c0ebaa-0f14-422a-9755-56fb542096c8")
 		(property "Reference" "#PWR08"
-			(at 168.91 106.68 0)
+			(at 181.61 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3501,7 +3618,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 168.91 105.41 0)
+			(at 181.61 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3509,7 +3626,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 168.91 100.33 0)
+			(at 181.61 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3518,7 +3635,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 100.33 0)
+			(at 181.61 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3527,7 +3644,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 168.91 100.33 0)
+			(at 181.61 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3565,7 +3682,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "?"
 			(at 125.73 43.18 90)
 			(effects
 				(font
