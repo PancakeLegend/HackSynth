@@ -1,4 +1,109 @@
-25212450790338138
+25250778474817857
+177
+125 x 50
+
+
+0
+2
+2
+177
+125 x 202
+
+
+0
+4
+4
+177
+175 x 50
+
+
+0
+2
+2
+177
+200 x 50
+
+
+0
+2
+2
+177
+Fuses + MDF
+
+
+0
+0
+0
+177
+Landings - Front Block
+
+
+0
+0
+0
+177
+Landings - Rear Block
+
+
+0
+0
+0
+177
+Meter Boxes
+
+
+0
+0
+0
+177
+Sign Hole
+
+
+0
+1
+0
+177
+South Path 04
+
+
+0
+0
+0
+177
+Stairs
+
+
+0
+0
+0
+ARKEUS_Lib
+1.5mm PTH
+
+
+0
+1
+1
+ARKEUS_Lib
+2.2mm Hole
+
+
+0
+0
+0
+ARKEUS_Lib
+ARKEUS Parking 01
+
+
+0
+0
+0
+ARKEUS_Lib
+ARKEUS Parking 02
+
+
+0
+0
+0
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59052,6 +59157,27 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 2
 2
 HackSynth
+BarrelJack_DC044A
+Barrel Jack, 2.5mm ID, 5.5mm OD, 24V, 5A, switch, https://www.cui.com/product/resource/pj-079bh.pdf 
+barrel jack cui dc power
+0
+5
+4
+HackSynth
+D_A-405_P7.62mm_Horizontal
+Diode, A-405 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
+Diode A-405 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+HackSynth
+JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal
+JST PH series connector, S3B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH horizontal
+0
+3
+3
+HackSynth
 Jack_3.5mm
 TRS 3.5mm, vertical, Thonkiconn, PCB mount, (http://www.qingpu-electronics.com/en/products/WQP-PJ398SM-362.html)
 WQP-PJ398SM WQP-PJ301M-12 TRS 3.5mm mono vertical jack thonkiconn qingpu
@@ -59059,9 +59185,37 @@ WQP-PJ398SM WQP-PJ301M-12 TRS 3.5mm mono vertical jack thonkiconn qingpu
 3
 3
 HackSynth
+LM317 - TO-220-3_Vertical
+TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Vertical RM 2.54mm
+0
+3
+3
+HackSynth
+LM337 - TO-220-3_Vertical
+TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Vertical RM 2.54mm
+0
+3
+3
+HackSynth
 Potentiometer_Alps_RK09K_Horizontal
 Potentiometer, horizontally mounted, Omeg PC16PU, Omeg PC16PU, Omeg PC16PU, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GH/249GH Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148A/149A Single with mounting plates, Vishay/Spectrol 148/149 Double, Vishay/Spectrol 148A/149A Double with mounting plates, Piher PC-16 Single, Piher PC-16 Single, Piher PC-16 Single, Piher PC-16SV Single, Piher PC-16 Double, Piher PC-16 Triple, Piher T16H Single, Piher T16L Single, Piher T16H Double, Alps RK163 Single, Alps RK163 Double, Alps RK097 Single, Alps RK097 Double, Bourns PTV09A-2 Single with mounting sleve Single, Bourns PTV09A-1 with mounting sleve Single, Bourns PRS11S Single, Alps RK09K Single with mounting sleve Single, Alps RK09K with mounting sleve Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09K/RK09D1130C1B.html
 Potentiometer horizontal  Omeg PC16PU  Omeg PC16PU  Omeg PC16PU  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GH/249GH Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148A/149A Single with mounting plates  Vishay/Spectrol 148/149 Double  Vishay/Spectrol 148A/149A Double with mounting plates  Piher PC-16 Single  Piher PC-16 Single  Piher PC-16 Single  Piher PC-16SV Single  Piher PC-16 Double  Piher PC-16 Triple  Piher T16H Single  Piher T16L Single  Piher T16H Double  Alps RK163 Single  Alps RK163 Double  Alps RK097 Single  Alps RK097 Double  Bourns PTV09A-2 Single with mounting sleve Single  Bourns PTV09A-1 with mounting sleve Single  Bourns PRS11S Single  Alps RK09K Single with mounting sleve Single  Alps RK09K with mounting sleve Single
+0
+3
+3
+HackSynth
+R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+2
+2
+HackSynth
+TO-92_Inline - Handsolder
+TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
 0
 3
 3
