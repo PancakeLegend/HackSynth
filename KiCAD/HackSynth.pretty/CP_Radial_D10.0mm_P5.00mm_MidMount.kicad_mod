@@ -277,7 +277,7 @@
 		(uuid "34a4a105-cd65-4a06-8755-0a24584f0073")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/ocd/OneDrive/Drafting/CCHS/HackSynth/KiCAD/HackSynth.pretty/CP_Radial_D10.0mm_H17.5mm_MidMount v3.step"
+	(model "C:/Users/ocd/OneDrive/Drafting/CCHS/HackSynth/KiCAD/HackSynth.pretty/CP_Radial_D10.0mm_H17.5mm_MidMount.step"
 		(offset
 			(xyz 2.5 0 0.25)
 		)
