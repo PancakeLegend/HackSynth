@@ -6,7 +6,7 @@
 	(descr "CP, Radial series, Radial, pin pitch=5.00mm, diameter=10mm, height=16mm, Electrolytic Capacitor")
 	(tags "CP Radial series Radial pin pitch 5.00mm diameter 10mm height 16mm Electrolytic Capacitor")
 	(property "Reference" "REF**"
-		(at 0 2.25 0)
+		(at 0 -14.5 0)
 		(layer "F.SilkS")
 		(uuid "ea96e465-59b0-4254-80da-0170360ab3a1")
 		(effects
@@ -52,26 +52,6 @@
 		)
 	)
 	(attr through_hole)
-	(fp_line
-		(start -3.75 0)
-		(end -2.75 0)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "86d240be-582a-46ad-b5b8-19667942510f")
-	)
-	(fp_line
-		(start -3.25 -0.5)
-		(end -3.25 0.5)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "3f0f98fa-8efd-4b3a-bfe2-db6eef803a77")
-	)
 	(fp_line
 		(start -2.5 -13)
 		(end -2.5 -4)
@@ -123,6 +103,36 @@
 		(uuid "329138aa-de19-4eb8-a774-b99e84264aba")
 	)
 	(fp_line
+		(start -1.675 -1.4)
+		(end -0.825 -1.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "86d240be-582a-46ad-b5b8-19667942510f")
+	)
+	(fp_line
+		(start -1.25 -1.8)
+		(end -1.25 -1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3f0f98fa-8efd-4b3a-bfe2-db6eef803a77")
+	)
+	(fp_line
+		(start 0.85 -1.4)
+		(end 1.7 -1.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ebca3c64-93ea-4ec6-9d31-94e12e746618")
+	)
+	(fp_line
 		(start 2 -13.5)
 		(end -2 -13.5)
 		(stroke
@@ -171,16 +181,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "d3982789-94fd-4bc2-85b8-044e55503546")
-	)
-	(fp_line
-		(start 2.75 0)
-		(end 3.75 0)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "9cad5335-6781-4f8e-a63a-75574ba4cbee")
 	)
 	(fp_arc
 		(start -2.5 -13)

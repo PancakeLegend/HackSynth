@@ -1818,6 +1818,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "3v LED + 4.7k Resistor"
+		(exclude_from_sim no)
+		(at 90.17 38.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1383f885-a73d-423d-bba8-760f5a97355b")
+	)
 	(text "-V OUT\n"
 		(exclude_from_sim no)
 		(at 205.486 108.458 0)
