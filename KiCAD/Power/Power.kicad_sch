@@ -538,6 +538,189 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:LED"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "LED"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Light emitting diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Pins" "1=K 2=A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "LED diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "LED* LED_SMD:* LED_THT:*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "LED_0_1"
+				(polyline
+					(pts
+						(xy -3.048 -0.762) (xy -4.572 -2.286) (xy -3.81 -2.286) (xy -4.572 -2.286) (xy -4.572 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 -0.762) (xy -3.302 -2.286) (xy -2.54 -2.286) (xy -3.302 -2.286) (xy -3.302 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "LED_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "HackSynth:Barrel_Jack_Switch_MountingPin"
 			(pin_names
 				(hide yes)
@@ -1917,6 +2100,12 @@
 		(uuid "6ae8290e-63c4-4042-9ba1-2320e2b7fa63")
 	)
 	(junction
+		(at 66.04 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7907c4bc-967c-4b22-971d-051d20dac450")
+	)
+	(junction
 		(at 129.54 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1945,6 +2134,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9506692a-fc59-4eee-be21-b8721bdde0f3")
+	)
+	(junction
+		(at 66.04 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "970fb119-8fc3-4afa-b31d-8e9e7e15facb")
 	)
 	(junction
 		(at 186.69 110.49)
@@ -2017,7 +2212,7 @@
 		(uuid "5d16bb52-90ae-47da-9c83-2f115a85b786")
 	)
 	(no_connect
-		(at 71.12 85.09)
+		(at 58.42 85.09)
 		(uuid "e1127b1a-6745-4e44-b6e6-b02b566063b4")
 	)
 	(wire
@@ -2039,6 +2234,16 @@
 			(type default)
 		)
 		(uuid "0402ab04-d52c-42ba-98d8-efea55d88cf7")
+	)
+	(wire
+		(pts
+			(xy 74.93 72.39) (xy 66.04 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "090b3109-2696-4d84-91de-b533176b193f")
 	)
 	(wire
 		(pts
@@ -2152,6 +2357,16 @@
 	)
 	(wire
 		(pts
+			(xy 74.93 74.93) (xy 74.93 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37c61e1b-c30f-46f6-b275-c6c83f75771a")
+	)
+	(wire
+		(pts
 			(xy 173.99 105.41) (xy 173.99 110.49)
 		)
 		(stroke
@@ -2162,7 +2377,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 82.55) (xy 71.12 82.55)
+			(xy 66.04 82.55) (xy 58.42 82.55)
 		)
 		(stroke
 			(width 0)
@@ -2199,6 +2414,16 @@
 			(type default)
 		)
 		(uuid "42411d0e-d518-416f-a9c7-ecf9f588faf8")
+	)
+	(wire
+		(pts
+			(xy 74.93 87.63) (xy 74.93 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "426cc701-5b7b-4c2e-bc8b-cd3a40134ff3")
 	)
 	(wire
 		(pts
@@ -2292,6 +2517,16 @@
 	)
 	(wire
 		(pts
+			(xy 74.93 95.25) (xy 74.93 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "638f5842-cd39-4bc9-a3f9-901089f9a309")
+	)
+	(wire
+		(pts
 			(xy 149.86 101.6) (xy 157.48 101.6)
 		)
 		(stroke
@@ -2372,6 +2607,16 @@
 	)
 	(wire
 		(pts
+			(xy 66.04 72.39) (xy 66.04 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e90be84-d53e-4c28-9fac-3b8081e66b21")
+	)
+	(wire
+		(pts
 			(xy 101.6 59.69) (xy 101.6 64.77)
 		)
 		(stroke
@@ -2389,6 +2634,16 @@
 			(type default)
 		)
 		(uuid "813f0ced-192d-4062-bedb-30ba6cf41221")
+	)
+	(wire
+		(pts
+			(xy 74.93 99.06) (xy 66.04 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8625b86b-6223-402d-a1be-e929fa38ba53")
 	)
 	(wire
 		(pts
@@ -2442,7 +2697,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 59.69) (xy 78.74 82.55)
+			(xy 66.04 59.69) (xy 66.04 72.39)
 		)
 		(stroke
 			(width 0)
@@ -2492,7 +2747,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 87.63) (xy 78.74 87.63)
+			(xy 58.42 87.63) (xy 66.04 87.63)
 		)
 		(stroke
 			(width 0)
@@ -2509,6 +2764,16 @@
 			(type default)
 		)
 		(uuid "b37046a3-15c6-45a8-b104-cd41135579d4")
+	)
+	(wire
+		(pts
+			(xy 66.04 99.06) (xy 66.04 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b75db2e9-de8e-4744-8e6a-2fec06d69e3b")
 	)
 	(wire
 		(pts
@@ -2662,7 +2927,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 110.49) (xy 78.74 110.49)
+			(xy 90.17 110.49) (xy 66.04 110.49)
 		)
 		(stroke
 			(width 0)
@@ -2682,7 +2947,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 59.69) (xy 78.74 59.69)
+			(xy 90.17 59.69) (xy 66.04 59.69)
 		)
 		(stroke
 			(width 0)
@@ -2722,7 +2987,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 87.63) (xy 78.74 110.49)
+			(xy 66.04 87.63) (xy 66.04 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2762,7 +3027,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 96.52) (xy 63.5 92.71)
+			(xy 50.8 96.52) (xy 50.8 92.71)
 		)
 		(stroke
 			(width 0)
@@ -3230,7 +3495,7 @@
 	)
 	(symbol
 		(lib_id "HackSynth:Barrel_Jack_Switch_MountingPin")
-		(at 63.5 85.09 0)
+		(at 50.8 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3239,7 +3504,7 @@
 		(fields_autoplaced yes)
 		(uuid "3c8988f0-6e95-4bd0-a365-be7cc349d942")
 		(property "Reference" "J1"
-			(at 63.5 76.2 0)
+			(at 50.8 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3247,7 +3512,7 @@
 			)
 		)
 		(property "Value" "Barrel_Jack_Switch_MountingPin"
-			(at 63.5 78.74 0)
+			(at 50.8 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3255,7 +3520,7 @@
 			)
 		)
 		(property "Footprint" "HackSynth:BarrelJack_DC044A"
-			(at 64.77 86.106 0)
+			(at 52.07 86.106 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3264,7 +3529,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 64.77 86.106 0)
+			(at 52.07 86.106 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3273,7 +3538,7 @@
 			)
 		)
 		(property "Description" "DC Barrel Jack with an internal switch and a mounting pin"
-			(at 63.5 85.09 0)
+			(at 50.8 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3436,6 +3701,76 @@
 			(project ""
 				(path "/3945dfa0-e411-40a6-854a-cc3b33a69c85"
 					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "HackSynth:R")
+		(at 74.93 91.44 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "549080d5-3b9c-4614-a5b1-9a03623512a9")
+		(property "Reference" "R5"
+			(at 77.47 90.1699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1.1k"
+			(at 77.47 92.7099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 76.708 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 74.93 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 74.93 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fe3b57fc-fc60-4554-9d6e-f6bf379ec1ed")
+		)
+		(pin "1"
+			(uuid "3f421545-14db-47d0-b660-b24ee991f67f")
+		)
+		(instances
+			(project "Power"
+				(path "/3945dfa0-e411-40a6-854a-cc3b33a69c85"
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -3743,6 +4078,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED")
+		(at 74.93 78.74 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "738cd36d-4427-4347-8c04-f8690db4d504")
+		(property "Reference" "D5"
+			(at 78.74 79.0574 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LED"
+			(at 78.74 81.5974 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "HackSynth:LED_D5.0mm"
+			(at 74.93 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 74.93 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 74.93 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 74.93 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7e2e8ac1-a8a4-47e2-8987-f095802aa361")
+		)
+		(pin "2"
+			(uuid "8b448392-5e56-4a65-9580-ed6c022a510b")
+		)
+		(instances
+			(project ""
+				(path "/3945dfa0-e411-40a6-854a-cc3b33a69c85"
+					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x03_Pin")
 		(at 218.44 85.09 0)
 		(mirror y)
@@ -3818,7 +4232,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 63.5 96.52 0)
+		(at 50.8 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3826,7 +4240,7 @@
 		(dnp no)
 		(uuid "ac71e1c8-2123-4cd0-8723-efeb845f706b")
 		(property "Reference" "#PWR02"
-			(at 63.5 102.87 0)
+			(at 50.8 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3835,7 +4249,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 63.5 101.6 0)
+			(at 50.8 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3843,7 +4257,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 96.52 0)
+			(at 50.8 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3852,7 +4266,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 96.52 0)
+			(at 50.8 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3861,7 +4275,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 63.5 96.52 0)
+			(at 50.8 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
