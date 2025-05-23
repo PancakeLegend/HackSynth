@@ -270,24 +270,24 @@
 	)
 	(pad "G" thru_hole rect
 		(at 0 6.48)
-		(size 1.93 1.83)
-		(drill 1.22)
+		(size 2 2)
+		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "10aefc55-1fa8-43c1-9b90-df9ac0c39acf")
 	)
 	(pad "S" thru_hole circle
 		(at 0 3.38)
-		(size 2.13 2.13)
-		(drill 1.42)
+		(size 2.2 2.2)
+		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "21263658-23e2-4451-b889-47566719ae88")
 	)
 	(pad "T" thru_hole circle
 		(at 0 -4.92)
-		(size 2.13 2.13)
-		(drill 1.43)
+		(size 2.2 2.2)
+		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "580ce45d-7af9-47d8-b228-7d76c8c4894b")
@@ -295,7 +295,12 @@
 	(zone
 		(net 0)
 		(net_name "")
-		(layer "F.Cu")
+		(layers "F.Cu" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu"
+			"In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+			"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+			"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+			"In30.Cu"
+		)
 		(uuid "39afda75-17c3-487f-be6c-a44472e356f8")
 		(hatch full 0.508)
 		(connect_pads
@@ -333,15 +338,15 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "${KICAD8_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical.wrl"
+	(model "C:/Users/ocd/OneDrive/Drafting/CCHS/HackSynth/KiCAD/HackSynth.pretty/3.5mm_Jack_Vert.stp"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 0 14.5)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -0 -90 -0)
 		)
 	)
 )

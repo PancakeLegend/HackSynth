@@ -1,4 +1,4 @@
-25261263796774211
+25657514759912329
 177
 125 x 50
 
@@ -2757,6 +2757,615 @@ speaker CUI
 0
 2
 2
+CCHS
+Amp - MAX98357A
+
+
+0
+7
+7
+CCHS
+Amp - MAX98357A (All Pins)
+
+
+0
+11
+9
+CCHS
+Butterfly01
+
+
+0
+0
+0
+CCHS
+Buzzer_12x9.5RM6.5
+Generic Buzzer, D12mm height 9.5mm with RM6.5mm
+buzzer
+0
+2
+2
+CCHS
+Buzzer_12x9.5RM6.6
+Generic Buzzer, D12mm height 9.5mm with RM6.5mm
+buzzer
+0
+2
+2
+CCHS
+CCHS Logo - 8mm
+
+
+0
+0
+0
+CCHS
+CCHS Logo - 10mm
+
+
+0
+0
+0
+CCHS
+CCHS Token 01
+
+
+0
+0
+0
+CCHS
+CCHS Token 39mm 02
+
+
+0
+0
+0
+CCHS
+CCHS_Logo_NoText
+
+
+0
+0
+0
+CCHS
+CCHS_Logo_Small
+
+
+0
+0
+0
+CCHS
+CCHS_Logo_Small_NoText
+
+
+0
+0
+0
+CCHS
+CCHS_Logo_WithName
+
+
+0
+0
+0
+CCHS
+CP_Radial_D5.0mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor
+0
+2
+2
+CCHS
+CR2032
+CR2032 Battery Holder
+CR2032 Battery Holder Clip
+0
+1
+1
+CCHS
+CR2032-Plastic
+CR2032 Battery Holder - Plastic
+Battery CR2032
+0
+2
+2
+CCHS
+CR2032_02
+CR2032 Battery Holder
+CR2032 Battery Holder Clip
+0
+1
+1
+CCHS
+C_Disc_D5.0mm_W2.5mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 5mm width 2.5mm Capacitor
+0
+2
+2
+CCHS
+DIP-8_W7.62mm_LongPads
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+8
+8
+CCHS
+DIP-28_W7.62mm_LongPads
+28-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+28
+28
+CCHS
+Display_Module_128X64_I2C_SSD1306
+OLED Display Module 128X64 I2C SSD1306
+OLED Display Module 128X64 I2C SSD1306
+0
+4
+4
+CCHS
+Gir_02
+
+
+0
+0
+0
+CCHS
+Jumper_Pad
+Solder Jumper
+Jumper
+0
+2
+2
+CCHS
+Kailh Choc V2 - Arcade Button
+
+
+0
+6
+2
+CCHS
+Kailh Choc V2 - Arcade Button (Minimal)
+
+
+0
+3
+2
+CCHS
+Kailh Choc V2 - Low Profile GC plus MX
+
+
+0
+6
+2
+CCHS
+Keypad_01
+
+
+0
+12
+12
+CCHS
+Keypad_02
+
+
+0
+12
+12
+CCHS
+LED_D5.0mm
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+CCHS
+LED_D10.0mm
+LED, diameter 10.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED10-4500RT%23KIN.pdf
+LED diameter 10.0mm 2 pins
+0
+2
+2
+CCHS
+LOLIN32_Flipped
+LOLIN32 Flipped, with cutout
+LOLIN32 OHMC LCA 2021
+0
+26
+26
+CCHS
+LOLIN32_Flipped_SmallCut
+LOLIN32 Flipped, with cutout
+LOLIN32 OHMC LCA 2021
+0
+26
+26
+CCHS
+Mic - INMP441 MEMS I2S
+
+
+0
+6
+6
+CCHS
+MountingHole_10.25mm_Pad
+Mounting Hole 8.4mm, M8
+mounting hole 8.4mm m8
+0
+1
+1
+CCHS
+NES_1x08_Pitch2.54mm
+Through hole angled pin header, 1x08, 2.54mm pitch, 6mm pin length, single row
+LCA2021 CCHS Through hole angled pin header THT 1x08 2.54mm single row
+0
+8
+8
+CCHS
+NES_A-B_Button
+Capacitive Touch Button 14mm
+Capacitive Touch
+0
+1
+1
+CCHS
+NES_D-Pad_Pads
+Capacitive Touch D-Pad
+Capacitive D-Pad
+0
+8
+4
+CCHS
+NES_LHS_Silk
+
+
+0
+0
+0
+CCHS
+NES_RHS_Mask
+
+
+0
+0
+0
+CCHS
+NES_RHS_Silk
+
+
+0
+0
+0
+CCHS
+NES_RHS_SilkAndMask
+
+
+0
+0
+0
+CCHS
+NES_SelectButton
+
+
+0
+1
+1
+CCHS
+NES_StartButton
+
+
+0
+1
+1
+CCHS
+OSHW_Logo_10mm
+
+
+0
+0
+0
+CCHS
+PJ320A_3.5mm_Jack
+3.5mm, TRS connector.
+3.5mm jack phones headphones 4pins audio plug
+0
+4
+4
+CCHS
+PancakeKiCAD
+
+
+0
+0
+0
+CCHS
+PancakeLegend_Logo
+
+
+0
+0
+0
+CCHS
+PancakeLegend_Logo_SolderMask
+
+
+0
+0
+0
+CCHS
+PancakeMod4
+
+
+0
+0
+0
+CCHS
+Pi Zero W 2
+
+
+0
+40
+40
+CCHS
+Pi Zero W 2 (With Mount Holes)
+
+
+0
+44
+40
+CCHS
+Pin_Header_Angled_1x08_Pitch2.54mm
+Through hole angled pin header, 1x08, 2.54mm pitch, 6mm pin length, single row
+LCA2021 CCHS Through hole angled pin header THT 1x08 2.54mm single row
+0
+8
+8
+CCHS
+Pin_Header_Straight_1x14_Pitch2.54mm
+Through hole straight pin header, 1x14, 2.54mm pitch, single row
+Through hole pin header THT 1x14 2.54mm single row
+0
+14
+14
+CCHS
+Pin_Header_Straight_1x16_Pitch2.54mm
+Through hole straight pin header, 1x16, 2.54mm pitch, single row
+Through hole pin header THT 1x16 2.54mm single row
+0
+16
+16
+CCHS
+Potentiometer_Alps_RK09K_Horizontal
+Potentiometer, horizontally mounted, Omeg PC16PU, Omeg PC16PU, Omeg PC16PU, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GH/249GH Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148A/149A Single with mounting plates, Vishay/Spectrol 148/149 Double, Vishay/Spectrol 148A/149A Double with mounting plates, Piher PC-16 Single, Piher PC-16 Single, Piher PC-16 Single, Piher PC-16SV Single, Piher PC-16 Double, Piher PC-16 Triple, Piher T16H Single, Piher T16L Single, Piher T16H Double, Alps RK163 Single, Alps RK163 Double, Alps RK097 Single, Alps RK097 Double, Bourns PTV09A-2 Single with mounting sleve Single, Bourns PTV09A-1 with mounting sleve Single, Bourns PRS11S Single, Alps RK09K Single with mounting sleve Single, Alps RK09K with mounting sleve Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09K/RK09D1130C1B.html
+Potentiometer horizontal  Omeg PC16PU  Omeg PC16PU  Omeg PC16PU  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GH/249GH Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148A/149A Single with mounting plates  Vishay/Spectrol 148/149 Double  Vishay/Spectrol 148A/149A Double with mounting plates  Piher PC-16 Single  Piher PC-16 Single  Piher PC-16 Single  Piher PC-16SV Single  Piher PC-16 Double  Piher PC-16 Triple  Piher T16H Single  Piher T16L Single  Piher T16H Double  Alps RK163 Single  Alps RK163 Double  Alps RK097 Single  Alps RK097 Double  Bourns PTV09A-2 Single with mounting sleve Single  Bourns PTV09A-1 with mounting sleve Single  Bourns PRS11S Single  Alps RK09K Single with mounting sleve Single  Alps RK09K with mounting sleve Single
+0
+3
+3
+CCHS
+Potentiometer_RV09
+Potentiometer Vertical
+Potentiometer Vertical
+0
+3
+3
+CCHS
+ProgJumper
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+CCHS
+R_L6.3mm_D2.5mm_P7.62mm
+Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+2
+2
+CCHS
+R_L6.3mm_D2.5mm_P8.5mm
+Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+2
+2
+CCHS
+R_L6.3mm_D2.5mm_P8mm
+Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+2
+2
+CCHS
+Resonator-2pin_w7.0mm_h2.5mm
+Ceramic Resomator/Filter 7.0x2.5mm^2, length*width=7.0x2.5mm^2 package, package length=7.0mm, package width=2.5mm, 2 pins
+THT ceramic resonator filter
+0
+2
+2
+CCHS
+Resonator-3pin_w8.0mm_h3.5mm
+Ceramic Resomator/Filter 8.0x3.5mm^2, length*width=8.0x3.5mm^2 package, package length=8.0mm, package width=3.5mm, 3 pins
+THT ceramic resonator filter
+0
+3
+3
+CCHS
+Rocket S2S
+
+
+0
+0
+0
+CCHS
+SAO_420_1x08
+Through hole straight pin header, 1x08, 2.54mm pitch, single row
+Through hole pin header THT 1x08 2.54mm single row
+0
+8
+8
+CCHS
+SAO_Header_4-Pin
+Through hole straight pin header, 2x02, 2.54mm pitch, double rows
+Through hole pin header THT 2x02 2.54mm double row
+0
+4
+4
+CCHS
+SAO_Header_6-Pin
+Through hole straight pin header, 2x03, 2.54mm pitch, double rows
+Through hole pin header THT 2x03 2.54mm double row
+0
+6
+6
+CCHS
+SAO_Header_6-Pin_LEGODot
+Through hole straight pin header, 2x03, 2.54mm pitch, double rows
+Through hole pin header THT 2x03 2.54mm double row
+0
+6
+6
+CCHS
+SW_PUSH-12mm
+SW PUSH 12mm
+tact sw push 12mm
+0
+4
+2
+CCHS
+SW_PUSH_6mm
+Tactile Push Button 6mm
+Tactile Push Button 6mm SW
+0
+4
+2
+CCHS
+SW_Tactile_SKHH_Angled
+tactile switch 6mm ALPS SKHH right angle http://www.alps.com/prod/info/E/HTML/Tact/SnapIn/SKHH/SKHHLUA010.html
+tactile switch 6mm ALPS SKHH right angle
+0
+4
+2
+CCHS
+Scroll
+
+
+0
+0
+0
+CCHS
+SquirrelCombined02
+
+
+0
+0
+0
+CCHS
+Stud_Hole_4.8mm
+
+
+0
+0
+0
+CCHS
+Stylus_Header
+Through hole angled pin header, 1x01, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x01 2.54mm single row
+0
+1
+1
+CCHS
+Switch_SPDT_8.5
+
+
+0
+3
+3
+CCHS
+Synth_Hex_Pads
+
+
+0
+12
+12
+CCHS
+TO-92_Inline - Handsolder
+TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+CCHS
+TapeHole
+Hole
+Hole ArduTouch Tape
+0
+1
+1
+CCHS
+Touch_Wheel_50mm
+
+
+0
+3
+3
+CCHS
+Touch_Wheel_50mm - Copy
+
+
+0
+3
+3
+CCHS
+Touch_Wheel_GraphicExport
+
+
+0
+3
+3
+CCHS
+Tux_Edition_Silk
+
+
+0
+0
+0
+CCHS
+Tux_Edition_Silk_WithSliders
+
+
+0
+0
+0
+CCHS
+Tux_G2
+
+
+0
+0
+0
+CCHS
+Tux_G2_02
+
+
+0
+0
+0
+CCHS
+USB_Micro_2Pin
+USB Micro Power Connector
+USB Micro
+0
+4
+3
+CCHS
+magpie_outline
+
+
+0
+0
+0
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -59164,6 +59773,27 @@ barrel jack cui dc power
 5
 4
 HackSynth
+CCHS Logo - 8mm
+
+
+0
+0
+0
+HackSynth
+CCHS Logo - 10mm
+
+
+0
+0
+0
+HackSynth
+CP_Radial_D5.2mm_P2.50mm_LayDown
+CP, Radial series, Radial, pin pitch=5.00mm, diameter=10mm, height=16mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 5.00mm diameter 10mm height 16mm Electrolytic Capacitor
+0
+2
+2
+HackSynth
 CP_Radial_D10.0mm_P5.00mm_MidMount
 CP, Radial series, Radial, pin pitch=5.00mm, diameter=10mm, height=16mm, Electrolytic Capacitor
 CP Radial series Radial pin pitch 5.00mm diameter 10mm height 16mm Electrolytic Capacitor
@@ -59199,6 +59829,13 @@ WQP-PJ398SM WQP-PJ301M-12 TRS 3.5mm mono vertical jack thonkiconn qingpu
 3
 3
 HackSynth
+LED_D5.0mm
+LED, diameter 5.0mm, 2 pins, clear, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf, generated by kicad-footprint-generator
+LED
+0
+2
+2
+HackSynth
 LM317 - TO-220-3_Horizontal_TabDown
 TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
 TO-220-3 Horizontal RM 2.54mm
@@ -59226,6 +59863,20 @@ TO-220-3 Vertical RM 2.54mm
 0
 3
 3
+HackSynth
+PancakeLegend Logo - 8mm
+
+
+0
+0
+0
+HackSynth
+PancakeLegend Logo - 10mm
+
+
+0
+0
+0
 HackSynth
 Potentiometer_Alps_RK09K_Horizontal
 Potentiometer, horizontally mounted, Omeg PC16PU, Omeg PC16PU, Omeg PC16PU, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GH/249GH Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148A/149A Single with mounting plates, Vishay/Spectrol 148/149 Double, Vishay/Spectrol 148A/149A Double with mounting plates, Piher PC-16 Single, Piher PC-16 Single, Piher PC-16 Single, Piher PC-16SV Single, Piher PC-16 Double, Piher PC-16 Triple, Piher T16H Single, Piher T16L Single, Piher T16H Double, Alps RK163 Single, Alps RK163 Double, Alps RK097 Single, Alps RK097 Double, Bourns PTV09A-2 Single with mounting sleve Single, Bourns PTV09A-1 with mounting sleve Single, Bourns PRS11S Single, Alps RK09K Single with mounting sleve Single, Alps RK09K with mounting sleve Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09K/RK09D1130C1B.html
@@ -88073,6 +88724,1063 @@ TO-264-5 Vertical RM 3.81mm
 0
 5
 5
+Pancake
+0.8mm PTH
+
+
+0
+1
+1
+Pancake
+1N4148
+
+
+0
+2
+2
+Pancake
+1N4148_02
+
+
+0
+2
+2
+Pancake
+1N4148_03
+
+
+0
+2
+2
+Pancake
+177 Signage - Side Path
+
+
+0
+0
+0
+Pancake
+4020_RGB_WorldSemi
+4020 WS2812 RGB - WorldSemi
+
+0
+4
+4
+Pancake
+Anchor_01
+
+
+0
+1
+1
+Pancake
+Anchor_02
+
+
+0
+1
+1
+Pancake
+Anchor_03
+
+
+0
+1
+1
+Pancake
+Astrolabe_Test_02
+
+
+0
+0
+0
+Pancake
+Astrolabe_Test_03
+
+
+0
+0
+0
+Pancake
+Battery Flyaway
+
+
+0
+2
+2
+Pancake
+CP_Radial_D5.0mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor
+0
+2
+2
+Pancake
+CR2032-Plastic
+CR2032 Battery Holder - Plastic
+Battery CR2032
+0
+2
+2
+Pancake
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Pancake
+C_0805_2012Metric
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Pancake
+CapHoles_01
+
+
+0
+0
+0
+Pancake
+Cutout_U1
+
+
+0
+0
+0
+Pancake
+Cutout_U1_01 - Backup
+
+
+0
+0
+0
+Pancake
+Cutout_U1_02
+
+
+0
+0
+0
+Pancake
+Cutout_U1_02 - Copy
+
+
+0
+0
+0
+Pancake
+Cutout_U1_06_ZeroWidth
+
+
+0
+0
+0
+Pancake
+Cutout_U2_01 - Backup
+
+
+0
+0
+0
+Pancake
+Cutout_U2_02
+
+
+0
+0
+0
+Pancake
+Cutout_U2_02 - Backup
+
+
+0
+0
+0
+Pancake
+Cutout_U2_03
+
+
+0
+0
+0
+Pancake
+Cutout_U2_03 - Backup
+
+
+0
+0
+0
+Pancake
+Cutout_U15_01
+
+
+0
+0
+0
+Pancake
+Cutout_U125_01
+
+
+0
+0
+0
+Pancake
+Cutout_U175_01
+
+
+0
+0
+0
+Pancake
+Cutout_U225
+
+
+0
+0
+0
+Pancake
+Cutout_U225_01
+
+
+0
+0
+0
+Pancake
+Cutout_U275
+
+
+0
+0
+0
+Pancake
+Cutout_U275_01
+
+
+0
+0
+0
+Pancake
+Cutout_U625 - Backup
+
+
+0
+0
+0
+Pancake
+Cutout_U625_01
+
+
+0
+0
+0
+Pancake
+Cutout_U625_02
+
+
+0
+0
+0
+Pancake
+Cutout_U625_02 - Backup
+
+
+0
+0
+0
+Pancake
+Cutout_U625_03
+
+
+0
+0
+0
+Pancake
+Cutout_U625_03 - Backup
+
+
+0
+0
+0
+Pancake
+DingoCar_Logo
+
+
+0
+0
+0
+Pancake
+DingoController_Silks_Buttonboard_Credits
+
+
+0
+0
+0
+Pancake
+DingoController_Silks_Motherboard_Back
+
+
+0
+0
+0
+Pancake
+Encoder01
+
+
+0
+0
+0
+Pancake
+Header3Pin
+
+
+0
+3
+3
+Pancake
+Header3Pin_02
+
+
+0
+3
+3
+Pancake
+I2C Breakout Pads
+
+
+0
+4
+4
+Pancake
+I2C Breakout Pads + GPIO
+
+
+0
+6
+6
+Pancake
+JST_Angle_2
+JST Right-Angle Connector - 2 Pin
+
+0
+2
+2
+Pancake
+JST_Angle_3
+JST Right-Angle Connector - 3 Pin
+
+0
+3
+3
+Pancake
+JST_Angle_4
+JST Right-Angle Connector - 4 Pin
+
+0
+4
+4
+Pancake
+JST_Angle_5
+JST Right-Angle Connector - 5 Pin
+
+0
+5
+5
+Pancake
+JST_Angle_8
+JST Right-Angle Connector - 8 Pin
+
+0
+8
+8
+Pancake
+Jumper_Pad
+Solder Jumper
+Jumper
+0
+2
+2
+Pancake
+Jumper_Pad_6-Pairs
+Solder Jumper
+Jumper
+0
+12
+12
+Pancake
+Keyboard_PL60_Text_1200
+
+
+0
+0
+0
+Pancake
+Keyboard_Text_600
+
+
+0
+0
+0
+Pancake
+Keyboard_Text_1200
+
+
+0
+0
+0
+Pancake
+LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+4
+4
+Pancake
+M1.5 Mechanical Hole
+
+
+0
+0
+0
+Pancake
+M1.6 Mechanical Hole
+
+
+0
+0
+0
+Pancake
+M1.35 Mechanical Hole
+
+
+0
+0
+0
+Pancake
+M1_Hole
+
+
+0
+0
+0
+Pancake
+M2.5 Mechanical Hole
+
+
+0
+0
+0
+Pancake
+M2_Hole
+
+
+0
+0
+0
+Pancake
+M3_Hole
+M4 Hole - NPTH Mechanical
+
+0
+0
+0
+Pancake
+M3_Soldernut
+
+
+0
+1
+1
+Pancake
+M4_Hole
+M4 Hole - NPTH Mechanical
+
+0
+0
+0
+Pancake
+M4_Soldernut
+M4 Soldernut - Temp
+
+0
+1
+1
+Pancake
+M5 PTH
+
+
+0
+1
+1
+Pancake
+MXSwitch_02
+
+
+0
+2
+2
+Pancake
+MXSwitch_03
+
+
+0
+2
+2
+Pancake
+MXSwitch_U2
+
+
+0
+2
+2
+Pancake
+MXSwitch_U15
+
+
+0
+2
+2
+Pancake
+MXSwitch_U125
+
+
+0
+2
+2
+Pancake
+MXSwitch_U175
+
+
+0
+2
+2
+Pancake
+MXSwitch_U225
+
+
+0
+2
+2
+Pancake
+MXSwitch_U275
+
+
+0
+2
+2
+Pancake
+MXSwitch_U625
+
+
+0
+2
+2
+Pancake
+Mount_Plate_v1-1
+
+
+0
+0
+0
+Pancake
+Mousebites_02
+
+
+0
+0
+0
+Pancake
+Mousebites_03
+
+
+0
+0
+0
+Pancake
+Mousebites_03_Half
+
+
+0
+0
+0
+Pancake
+Mousebites_8
+
+
+0
+0
+0
+Pancake
+Mousebites_OnLine
+
+
+0
+10
+10
+Pancake
+Oval Double
+
+
+0
+4
+1
+Pancake
+PLCC-4-XZMDKCBDDG45S-9
+
+
+0
+4
+4
+Pancake
+PancakeLegend Logo - 8mm
+
+
+0
+0
+0
+Pancake
+PancakeLegend Logo - 10mm
+
+
+0
+0
+0
+Pancake
+PancakeLegend18mm
+
+
+0
+0
+0
+Pancake
+PancakeLegend20mm
+
+
+0
+0
+0
+Pancake
+PancakeLogo_Large
+
+
+0
+0
+0
+Pancake
+Panel_Connector
+
+
+0
+2
+2
+Pancake
+Panel_Connector 02
+
+
+0
+2
+2
+Pancake
+PinHeader_1x04_P2.54mm_I2C
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+Pancake
+PinHeader_1x04_P2.54mm_Vertical
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+Pancake
+ProMicro
+
+
+0
+24
+24
+Pancake
+ProMicro_07
+
+
+0
+24
+24
+Pancake
+ProMicro_08
+
+
+0
+24
+24
+Pancake
+ProMicro_09
+
+
+0
+24
+24
+Pancake
+ProMicro_10
+
+
+0
+26
+25
+Pancake
+ProMicro_13
+
+
+0
+26
+25
+Pancake
+ProMicro_EdgeLit_01
+
+
+0
+24
+24
+Pancake
+ProMicro_EdgeLit_Half
+
+
+0
+12
+12
+Pancake
+Prototype_Text
+
+
+0
+0
+0
+Pancake
+Prototype_Text_600
+
+
+0
+0
+0
+Pancake
+RGB
+
+
+0
+3
+3
+Pancake
+RGB-LED-PLCC-4-XZMDKCBDDG45S-9
+
+
+0
+4
+4
+Pancake
+RGB_06
+
+
+0
+3
+3
+Pancake
+RGB_07
+
+
+0
+3
+3
+Pancake
+RGB_Controller_Panel
+
+
+0
+3
+3
+Pancake
+RGB_Puck_Connector_IN
+
+
+0
+3
+3
+Pancake
+RGB_Puck_Connector_OUT
+
+
+0
+3
+3
+Pancake
+Reflection_Mask_9x120mm
+
+
+0
+1
+1
+Pancake
+Reflection_Mask_11-5x125mm_Mask_Only
+
+
+0
+1
+0
+Pancake
+Reflection_Mask_11x125mm_Mask_Only
+
+
+0
+1
+0
+Pancake
+Reflection_Mask_14x125mm_Mask_Only
+
+
+0
+1
+0
+Pancake
+Reflection_Mask_140mm_Cutout
+
+
+0
+1
+0
+Pancake
+Ribbon Connector P1.27 - 7 Wire
+
+
+0
+7
+7
+Pancake
+Ribbon Connector P2.54 - 7 Wire
+
+
+0
+7
+7
+Pancake
+SAO_Header_6-Pin_Oval
+Through hole straight pin header, 2x03, 2.54mm pitch, double rows
+Through hole pin header THT 2x03 2.54mm double row
+0
+6
+6
+Pancake
+SMT RA Header - 7Pin Female
+
+
+0
+7
+7
+Pancake
+SMT RA Header - 7Pin Male
+
+
+0
+7
+7
+Pancake
+SPC_3Panel
+
+
+0
+6
+6
+Pancake
+SPC_3Panel_1-6mm
+
+
+0
+6
+6
+Pancake
+SPC_Pads
+
+
+0
+2
+2
+Pancake
+Snackeus Token 39mm 01 Back
+
+
+0
+0
+0
+Pancake
+Snackeus Token 39mm 01 Front
+
+
+0
+0
+0
+Pancake
+Snackeus Token Back 04
+
+
+0
+0
+0
+Pancake
+Snackeus Token Front 01
+
+
+0
+0
+0
+Pancake
+Snackeus Token Front 02
+
+
+0
+0
+0
+Pancake
+Snackeus Token Front 03
+
+
+0
+0
+0
+Pancake
+Snackeus Token Front 03a
+
+
+0
+0
+0
+Pancake
+Snackeus Token Front 04
+
+
+0
+0
+0
+Pancake
+Snackeus Token Hole
+
+
+0
+18
+18
+Pancake
+Snackeus Token Hole 39mm
+
+
+0
+18
+18
+Pancake
+Stand_Hole_04
+
+
+0
+0
+0
+Pancake
+Stand_Hole_05
+
+
+0
+0
+0
+Pancake
+Stand_Hole_06_3-5mm
+
+
+0
+0
+0
+Pancake
+TestPoint_Pad_D1.0mm
+SMD pad as test Point, diameter 1.0mm
+test point SMD pad
+0
+1
+1
+Pancake
+Tilt Arm - Motor
+
+
+0
+0
+0
+Pancake
+Token Panel
+
+
+0
+0
+0
+Pancake
+USB_C_Receptacle_HRO_TYPE-C-31-M-12
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
+Pancake
+Vendbot_TRC-02
+
+
+0
+0
+0
+Pancake
+Vendbot_v2_PCB
+
+
+0
+4
+0
+Pancake
+Vendbot_v2_PCB_02
+
+
+0
+4
+0
+Pancake
+Vendbot_v2_PCB_03
+
+
+0
+4
+0
+Pancake
+Via
+
+
+0
+1
+1
+Pancake
+XCVR_ESP32-S3-MINI-1-N8
+
+
+0
+96
+73
+Pancake
+asdfsadf
+
+
+0
+1
+1
+Pancake
+magpie_outline
+
+
+0
+0
+0
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf

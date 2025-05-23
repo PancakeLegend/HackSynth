@@ -201,15 +201,15 @@
 		(uuid "88e58f13-5d71-4961-a645-805211c45f9e")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3339S_Horizontal.wrl"
+	(model "C:/Users/ocd/OneDrive/Drafting/CCHS/HackSynth/KiCAD/HackSynth.pretty/3362_Trim_Pot.step"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 -2.54 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -90 -0 -90)
 		)
 	)
 )
