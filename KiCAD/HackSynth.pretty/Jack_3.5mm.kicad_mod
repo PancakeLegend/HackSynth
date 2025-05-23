@@ -338,15 +338,15 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "C:/Users/ocd/OneDrive/Drafting/CCHS/HackSynth/KiCAD/HackSynth.pretty/3.5mm_Jack_Vert.stp"
+	(model "C:/Users/ocd/OneDrive/Drafting/CCHS/HackSynth/KiCAD/HackSynth.pretty/3.5mm_Jack_Vert.step"
 		(offset
-			(xyz 0 0 14.5)
+			(xyz 0 0 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -0 -90 -0)
+			(xyz -0 -0 -0)
 		)
 	)
 )
