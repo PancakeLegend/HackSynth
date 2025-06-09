@@ -159,4 +159,15 @@
 		(uuid "6b52a2f8-a188-4516-a1e9-b71f50e74655")
 	)
 	(embedded_fonts no)
+	(model "C:/Users/ocd/OneDrive/Drafting/CCHS/HackSynth/KiCAD/HackSynth.pretty/DIN-5 - DS-5-07A - MIDI Jack.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -180)
+		)
+	)
 )
