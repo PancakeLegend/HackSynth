@@ -275,15 +275,15 @@
 		(uuid "de27c2fb-c7b5-4a67-930e-0a74c28efddb")
 	)
 	(embedded_fonts no)
-	(model "Potentiometers.3dshapes/Potentiometer_Alps_RK09K_Horizontal.wrl"
+	(model "C:/Users/ocd/OneDrive/Drafting/CCHS/HackSynth/KiCAD/HackSynth.pretty/RV09_Potentiometer.step"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 0 7.4)
 		)
 		(scale
-			(xyz 0.393701 0.393701 0.393701)
+			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -0 -0 -0)
 		)
 	)
 )

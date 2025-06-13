@@ -1,4 +1,4 @@
-25673259030326527
+25675012255054618
 177
 125 x 50
 
@@ -59913,6 +59913,13 @@ TO-220-3 Vertical RM 2.54mm
 3
 3
 HackSynth
+Module 30x100mm
+
+
+0
+0
+0
+HackSynth
 PancakeLegend Logo - 8mm
 
 
@@ -59948,6 +59955,13 @@ Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W len
 2
 2
 HackSynth
+TO-92_Inline - BC547 - 2-Pin Handsolder
+TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+2
+2
+HackSynth
 TO-92_Inline - Handsolder
 TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
 to-92 sc-43 sc-43a sot54 PA33 transistor
@@ -59968,13 +59982,6 @@ Potentiometer horizontal Bourns 3339S
 0
 3
 3
-HackSynth
-Untitled
-
-
-0
-0
-0
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
