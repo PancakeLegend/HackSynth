@@ -288,7 +288,7 @@
 		(uuid "a0280f2d-ea9d-40d5-a8e4-59fc3e15f288")
 	)
 	(embedded_fonts no)
-	(model "C:/Program Files/KiCad/share/kicad/modules/packages3d/Package_DIP.3dshapes/DIP-8_W7.62mm.step"
+	(model "C:/Users/ocd/OneDrive/Drafting/CCHS/HackSynth/KiCAD/HackSynth.pretty/DIP-8_W7.62mm.step"
 		(offset
 			(xyz -3.81 3.81 0)
 		)
