@@ -1,4 +1,4 @@
-25682012190406198
+25683762087253886
 177
 125 x 50
 
@@ -59816,8 +59816,8 @@ CP Radial_Tantal series Radial pin pitch 5.00mm diameter 4.5mm height 10mm Tanta
 2
 HackSynth
 C_Ceramic_D4.5mm_P5.00mm
-CP, Radial_Tantal series, Radial, pin pitch=5.00mm, diameter=4.5mm, height=10mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
-CP Radial_Tantal series Radial pin pitch 5.00mm diameter 4.5mm height 10mm Tantal Electrolytic Capacitor
+
+
 0
 2
 2
@@ -59949,6 +59949,13 @@ PancakeLegend Logo - 8mm
 0
 HackSynth
 PancakeLegend Logo - 10mm
+
+
+0
+0
+0
+HackSynth
+PancakeLegend Logo - 10mm Invert
 
 
 0
