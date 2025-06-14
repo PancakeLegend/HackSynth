@@ -55,14 +55,24 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start -1.132087 -0.994976)
-		(end 0.25 1)
+		(start -1.066044 -0.622489)
+		(end 0.183956 0.627511)
 		(stroke
-			(width 0.3)
+			(width 0.4)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "c35a5c8c-34b6-4375-839e-429323fd895d")
+		(uuid "f9afc8c1-643e-4c70-92ec-5a90ad80d46f")
+	)
+	(fp_line
+		(start -1.066044 0.627511)
+		(end 0.183956 -0.622489)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ef1093f5-66a2-4c47-aa44-b5059981ca4d")
 	)
 	(fp_line
 		(start -0.53 1.85)
@@ -73,16 +83,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "dae12080-1828-43a0-9d2c-7e958fa1e3a4")
-	)
-	(fp_line
-		(start 0.25 -0.994976)
-		(end -1.132087 1)
-		(stroke
-			(width 0.3)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "4dfb7c7e-9a1e-4779-becc-20224cada611")
 	)
 	(fp_arc
 		(start -0.568478 1.838478)
@@ -204,6 +204,10 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "aed23ff8-6f7e-4181-baed-aa6a68f5d58a")
+	)
+	(group ""
+		(uuid "b52553c2-c5ab-42f5-96c7-56b617f1d40c")
+		(members "ef1093f5-66a2-4c47-aa44-b5059981ca4d" "f9afc8c1-643e-4c70-92ec-5a90ad80d46f")
 	)
 	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92_Inline.wrl"

@@ -1641,6 +1641,12 @@
 		(uuid "0375c451-c287-49b3-911a-5eedbaec50f9")
 	)
 	(junction
+		(at 125.73 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "14bfa0d9-f1db-4b1e-b9c9-ff83b4f25505")
+	)
+	(junction
 		(at 68.58 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1930,7 +1936,17 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 116.84) (xy 133.35 116.84)
+			(xy 125.73 125.73) (xy 125.73 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34713040-8045-4431-9ea5-ed89621f3e62")
+	)
+	(wire
+		(pts
+			(xy 130.81 116.84) (xy 132.08 116.84)
 		)
 		(stroke
 			(width 0)
@@ -1980,7 +1996,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 125.73) (xy 127 124.46)
+			(xy 125.73 125.73) (xy 125.73 124.46)
 		)
 		(stroke
 			(width 0)
@@ -2470,7 +2486,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 116.84) (xy 133.35 125.73)
+			(xy 132.08 116.84) (xy 132.08 125.73)
 		)
 		(stroke
 			(width 0)
@@ -2610,7 +2626,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 119.38) (xy 138.43 119.38)
+			(xy 130.81 119.38) (xy 138.43 119.38)
 		)
 		(stroke
 			(width 0)
@@ -2620,7 +2636,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 125.73) (xy 133.35 125.73)
+			(xy 125.73 125.73) (xy 132.08 125.73)
 		)
 		(stroke
 			(width 0)
@@ -5406,7 +5422,25 @@
 			"cwBaAG8AWAB6AFQAUABQADAAcwBjAEUATABBADYAUwBhAFYANQA4ADAATQBqAGEAUwBTAGYAUQBn"
 			"ACsALwBCAG4AWgB4AFEAeAAwAFEAaABvAFUANgA5AE8ASQBmAHcASwAwAE0AYwBMAFQAOQAvAFkA"
 			"MABhAC8AMAByAEkAdwBGAGIAdQBIAGMAMABMAEUATQBVADQAagBsAGkARQByAEEAOABSAHoAeABt"
-			"AEsAVgBvAFAAZwBKAEkAMwBlAGMAeAAyAG4AWABhAGUAbwBWAHkAUQBFAFIARQ=="
+			"AEsAVgBvAFAAZwBKAEkAMwBlAGMAeAAyAG4AWABhAGUAbwBWAHkAUQBFAFIARQ4AAAAAAABlp58J"
+			"AAAAAC6EMQUAAAAAKQ4AAAAAAAAUPaAJAAAAAIO3LwUAAAAAKQ4AAAAAAAB5WaMJAAAAAEi6MAUA"
+			"AAAAKg4AAAAAAADKw6IJAAAAAPOGMgUAAAAAKg4AAAAAAADUNKMJAAAAAPOvMAUAAAAAKg4AAAAA"
+			"AADXWaMJAAAAANW4MAUAAAAAKw4AAAAAAADN6KIJAAAAANWPMgUAAAAAKw4AAAAAAACTNKMJAAAA"
+			"AGyxMAUAAAAAKw4AAAAAAACkb6YJAAAAAGs0MQUAAAAALA4AAAAAAADeI6YJAAAAANQSMwUAAAAA"
+			"LA4AAAAAAADYSaYJAAAAAPIvMQUAAAAALA4AAAAAAADKb6YJAAAAAO4yMQUAAAAALQ4AAAAAAADQ"
+			"SaYJAAAAANAVMwUAAAAALQ4AAAAAAADQSaYJAAAAAHAxMQUAAAAALQ4AAAAAAAAwj6kJAAAAAHAx"
+			"MQUAAAAALg4AAAAAAAAwj6kJAAAAANAVMwUAAAAALg4AAAAAAAA2aakJAAAAAO4yMQUAAAAALg4A"
+			"AAAAAAAoj6kJAAAAAPIvMQUAAAAALw4AAAAAAAAitakJAAAAANQSMwUAAAAALw4AAAAAAABcaakJ"
+			"AAAAAGs0MQUAAAAALw4AAAAAAABtpKwJAAAAAGyxMAUAAAAAMA4AAAAAAAAz8KwJAAAAANWPMgUA"
+			"AAAAMA4AAAAAAAApf6wJAAAAANW4MAUAAAAAMA4AAAAAAAAspKwJAAAAAPOvMAUAAAAAMQ4AAAAA"
+			"AAA2Fa0JAAAAAPOGMgUAAAAAMQ4AAAAAAACHf6wJAAAAAEi6MAUAAAAAMQ4AAAAAAADsm68JAAAA"
+			"AIO3LwUAAAAAMg4AAAAAAACbMbAJAAAAAC6EMQUAAAAAMg4AAAAAAABGeK8JAAAAAKrELwUAAAAA"
+			"Mg4AAAAAAABwm68JAAAAABq2LwUAAAAAMw4AAAAAAADFVLAJAAAAAJ51MQUAAAAAMw4AAAAAAADe"
+			"eK8JAAAAAAnGLwUAAAAAMw4AAAAAAAD6YrIJAAAAAOBJLgUAAAAANA4AAAAAAADhPrMJAAAAAHX5"
+			"LwUAAAAANA4AAAAAAADJQbIJAAAAAHdcLgUAAAAANA4AAAAAAAA+YrIJAAAAAJNILgUAAAAANQ4A"
+			"AAAAAABWX7MJAAAAAJHlLwUAAAAANQ4AAAAAAACfQrIJAAAAALRdLgUAAAAANQ4AAAAAAADItLMJ"
+			"AAAAAMJQLQUAAAAANg4AAAAAAAB/0bQJAAAAAJ/YLgUAAAAANg4AAAAAAACd7rIJAAAAAJ6yLgUA"
+			"AAAANg4AAAAAAACnEbMJAAAAAGb1LAUAAAAANw4AAAAAAACJ9LQJAAAAAGcbLQ=="
 		)
 	)
 	(global_label "NOISE"
@@ -6446,7 +6480,7 @@
 	)
 	(symbol
 		(lib_id "HackSynth:AudioJack2_Ground")
-		(at 127 119.38 0)
+		(at 125.73 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6455,7 +6489,7 @@
 		(fields_autoplaced yes)
 		(uuid "61caadbf-0d10-46de-9cee-eca49b54284c")
 		(property "Reference" "J3"
-			(at 126.365 110.49 0)
+			(at 125.095 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6463,7 +6497,7 @@
 			)
 		)
 		(property "Value" "OUT"
-			(at 126.365 113.03 0)
+			(at 125.095 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6471,7 +6505,7 @@
 			)
 		)
 		(property "Footprint" "HackSynth:Jack_3.5mm"
-			(at 127 119.38 0)
+			(at 125.73 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6480,7 +6514,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 127 119.38 0)
+			(at 125.73 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6489,7 +6523,7 @@
 			)
 		)
 		(property "Description" "Audio Jack, 2 Poles (Mono / TS), Grounded Sleeve"
-			(at 127 119.38 0)
+			(at 125.73 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6583,6 +6617,71 @@
 			(project "Mixer"
 				(path "/d4613ad6-090f-4725-80fe-a4c191d32f09"
 					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 125.73 128.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6d64748c-5ca0-4d8d-a033-1b9732b1f884")
+		(property "Reference" "#PWR04"
+			(at 125.73 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 125.73 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 125.73 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 125.73 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 125.73 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7c6a64ce-2117-47fa-9fc9-041e5dfaefb3")
+		)
+		(instances
+			(project "Mixer"
+				(path "/d4613ad6-090f-4725-80fe-a4c191d32f09"
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
