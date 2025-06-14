@@ -1,0 +1,223 @@
+(footprint "C_Ceramic_D4.5mm_P5.00mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 2.5 0.000001 0)
+		(layer "F.SilkS")
+		(uuid "72a58a67-f950-4b5a-b9d4-4d2b0466782f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "C_Ceramic_D4.5mm_P5.00mm"
+		(at 2.5 3.5 0)
+		(layer "F.Fab")
+		(uuid "252edf30-6aeb-4aad-8e81-be488107a5fb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f902c4ac-7c75-42d4-b5b7-2c3564ab82d2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0979147a-f9ac-4dd1-9131-e72a2eedd784")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 0 -1.4)
+		(end 5 -1.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "443ccc61-83e8-400b-918a-a500c6e1efba")
+	)
+	(fp_line
+		(start 0 -1)
+		(end 0 -1.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "706c2687-7a73-490f-b95f-6288d1d4efde")
+	)
+	(fp_line
+		(start 0 1)
+		(end 0 1.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b332cbed-93a1-4e05-8028-6aff644a4177")
+	)
+	(fp_line
+		(start 0 1.4)
+		(end 5 1.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e46d1796-9de7-414b-8638-b6f7170307f1")
+	)
+	(fp_line
+		(start 5 -1.4)
+		(end 5 -1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8a96f2fb-4fef-4d89-bf09-c87c6e9a9d05")
+	)
+	(fp_line
+		(start 5 1.4)
+		(end 5 1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "31d02d4e-5130-4953-af50-9a39c218b1fe")
+	)
+	(fp_rect
+		(start -0.8 -1.5)
+		(end 5.8 1.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "d961b035-ec0f-4c41-bef8-88726f660663")
+	)
+	(fp_line
+		(start 0.1 -1.3)
+		(end 4.9 -1.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "05d45950-d4ca-4d8c-9268-a18c383891fd")
+	)
+	(fp_line
+		(start 0.1 -0.9)
+		(end 0.1 -1.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "80b7cd6b-3e10-46e2-bb11-afaa3ebf4afa")
+	)
+	(fp_line
+		(start 0.1 0.9)
+		(end 0.1 1.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "29f1d57f-e757-4181-92af-34fdd645f12c")
+	)
+	(fp_line
+		(start 0.1 1.3)
+		(end 4.9 1.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "3ba5d45a-bf02-4295-9a04-087cc2bff04d")
+	)
+	(fp_line
+		(start 4.9 -1.3)
+		(end 4.9 -0.9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "250fd0b2-5864-4bf4-a2f4-f1532b34d907")
+	)
+	(fp_line
+		(start 4.9 0.9)
+		(end 4.9 1.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "d6da9102-0d5d-4752-8a3a-0031bbfd3197")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.5 0 0)
+		(layer "F.Fab")
+		(uuid "e8408533-6dfc-463f-afe8-87287f653d31")
+		(effects
+			(font
+				(size 0.9 0.9)
+				(thickness 0.135)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "899961ed-1451-4288-b4d6-1d23ecb2c091")
+	)
+	(pad "2" thru_hole circle
+		(at 5 0)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b8f5dc80-b2fb-485f-ad2e-f39e8d3dbd79")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/ocd/OneDrive/Drafting/CCHS/HackSynth/KiCAD/HackSynth.pretty/C_Ceramic_D4.5mm_P5.00mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

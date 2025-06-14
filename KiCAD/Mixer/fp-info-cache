@@ -1,4 +1,4 @@
-25675012255054618
+25682012190534971
 177
 125 x 50
 
@@ -3275,6 +3275,13 @@ Through hole angled pin header THT 1x01 2.54mm single row
 0
 1
 1
+CCHS
+Switch SPDT - MTS-102
+
+
+0
+3
+3
 CCHS
 Switch_SPDT_8.5
 
@@ -59801,6 +59808,20 @@ CP Radial series Radial pin pitch 5.00mm diameter 10mm height 16mm Electrolytic 
 2
 2
 HackSynth
+CP_Radial_Tantal_D4.5mm_P5.00mm
+CP, Radial_Tantal series, Radial, pin pitch=5.00mm, diameter=4.5mm, height=10mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
+CP Radial_Tantal series Radial pin pitch 5.00mm diameter 4.5mm height 10mm Tantal Electrolytic Capacitor
+0
+2
+2
+HackSynth
+C_Ceramic_D4.5mm_P5.00mm
+
+
+0
+2
+2
+HackSynth
 C_Disc_D5.0mm_W2.5mm_P5.00mm
 C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf
 C Disc series Radial pin pitch 5.00mm  diameter 5mm width 2.5mm Capacitor
@@ -59954,6 +59975,13 @@ Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W len
 0
 2
 2
+HackSynth
+Switch SPDT - MTS-102
+
+
+0
+3
+3
 HackSynth
 TO-92_Inline - BC547 - 2-Pin Handsolder
 TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
