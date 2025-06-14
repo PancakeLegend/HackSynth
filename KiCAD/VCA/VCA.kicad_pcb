@@ -7428,5 +7428,14 @@
 			)
 		)
 	)
+	(group ""
+		(uuid "54dd4693-e161-4e1a-8bcb-91ed3484e4aa")
+		(members "320082d3-a57c-4c37-87f5-7f427be3aa5e" "594889d6-8d5a-4e50-bfe5-2d3c53a5b28f"
+			"610cd9be-c46b-4ca4-a3af-fb68f63570ed" "8aa2ae08-d220-4b84-9ecc-1ab1120b8649"
+			"9de6c92e-47b1-40c8-a51e-513cba4eeb97" "c464482e-d0aa-497b-b524-28ea0f9c72f4"
+			"c6aeeb3b-cbcb-46fa-90d9-aa195b8587c2" "c736e1ca-9125-4918-b41d-4c60af05241f"
+			"c968107a-16dc-4a46-8ef9-f25ca33553f2"
+		)
+	)
 	(embedded_fonts no)
 )

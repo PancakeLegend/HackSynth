@@ -1,0 +1,130 @@
+(footprint "Switch SPDT - MTS-102"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -2.3 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "fd482bdc-ac99-4def-8e43-64619bdd8541")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Untitled"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a7b52f3a-2cb1-4978-9ca2-c74791d9ed5e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "32e96a3d-cc53-4a3b-9615-8377a929cc7e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "842c0acc-779c-4843-a430-34cc0e326b8e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -4 -6.5)
+		(end 4 6.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "0d215d3b-3445-44b9-a3a6-999cf332d3c8")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "098a0371-0f8e-4fee-8427-2bc4fa4cfcfc")
+	)
+	(fp_rect
+		(start -4.25 -6.75)
+		(end 4.25 6.75)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "179dc545-a727-459a-bf72-d3d1e28ed334")
+	)
+	(pad "1" thru_hole oval
+		(at 0 -4.7)
+		(size 3.6 1.8)
+		(drill oval 2.7 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "92c7ea87-65c8-4211-9632-721970d0b09d")
+	)
+	(pad "2" thru_hole oval
+		(at 0 0)
+		(size 3.6 1.8)
+		(drill oval 2.7 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "0de587dd-80f8-499a-ba37-48c1c968a33b")
+	)
+	(pad "3" thru_hole oval
+		(at 0 4.7)
+		(size 3.6 1.8)
+		(drill oval 2.7 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "8e29f1b5-00c6-4b44-b67a-150470da2097")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/ocd/OneDrive/Drafting/CCHS/HackSynth/KiCAD/HackSynth.pretty/Switch SPDT - MTS-102.step"
+		(offset
+			(xyz 0 0 10.3)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 -0 -180)
+		)
+	)
+)
