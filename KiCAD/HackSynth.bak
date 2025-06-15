@@ -632,7 +632,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "HackSynth:Jack_3.5mm"
 			(at 0 0 0)
 			(effects
 				(font
