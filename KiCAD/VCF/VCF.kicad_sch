@@ -9602,7 +9602,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 116.84 170.942 90)
 			(effects
 				(font
@@ -9825,7 +9825,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 92.71 117.602 90)
 			(effects
 				(font
@@ -10355,7 +10355,7 @@
 			)
 		)
 		(pin "5"
-			(uuid "ac934291-f6b9-4fb3-add4-59e16bde3363")
+			(uuid "ac934291-f6b9-4fb3-add4-59e16bde3364")
 		)
 		(pin "3"
 			(uuid "ce5bfb3b-4924-4fea-a799-65ba33ff3abf")
@@ -10367,16 +10367,16 @@
 			(uuid "435fc3a1-4598-4206-a27b-4845e03184d5")
 		)
 		(pin "6"
-			(uuid "19a69ad1-0548-4e63-b507-8681a8839444")
+			(uuid "19a69ad1-0548-4e63-b507-8681a8839445")
 		)
 		(pin "7"
-			(uuid "41512516-6710-4fbe-8180-b20f37c62dff")
+			(uuid "41512516-6710-4fbe-8180-b20f37c62e00")
 		)
 		(pin "8"
-			(uuid "7079f2ee-7d2c-4f7f-8030-d8f400a47d60")
+			(uuid "7079f2ee-7d2c-4f7f-8030-d8f400a47d61")
 		)
 		(pin "4"
-			(uuid "f3835eed-0c6b-4ca0-b28e-0cee25a86982")
+			(uuid "f3835eed-0c6b-4ca0-b28e-0cee25a86983")
 		)
 		(instances
 			(project "VCF"
@@ -10609,7 +10609,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 101.6 78.232 90)
 			(effects
 				(font
@@ -10872,7 +10872,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 89.662 90.17 90)
 			(effects
 				(font
@@ -11011,7 +11011,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 138.938 41.91 90)
 			(effects
 				(font
@@ -11079,7 +11079,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 141.478 111.76 90)
 			(effects
 				(font
@@ -11148,7 +11148,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 227.33 109.982 90)
 			(effects
 				(font
@@ -11606,7 +11606,7 @@
 			)
 		)
 		(pin "5"
-			(uuid "ac934291-f6b9-4fb3-add4-59e16bde3364")
+			(uuid "ac934291-f6b9-4fb3-add4-59e16bde3365")
 		)
 		(pin "3"
 			(uuid "98864ac0-f301-43d2-8e21-45bc69cf2322")
@@ -11618,16 +11618,16 @@
 			(uuid "4ccb7805-0481-4e29-ab82-d9cb30251056")
 		)
 		(pin "6"
-			(uuid "19a69ad1-0548-4e63-b507-8681a8839445")
+			(uuid "19a69ad1-0548-4e63-b507-8681a8839446")
 		)
 		(pin "7"
-			(uuid "41512516-6710-4fbe-8180-b20f37c62e00")
+			(uuid "41512516-6710-4fbe-8180-b20f37c62e01")
 		)
 		(pin "8"
-			(uuid "7079f2ee-7d2c-4f7f-8030-d8f400a47d61")
+			(uuid "7079f2ee-7d2c-4f7f-8030-d8f400a47d62")
 		)
 		(pin "4"
-			(uuid "f3835eed-0c6b-4ca0-b28e-0cee25a86983")
+			(uuid "f3835eed-0c6b-4ca0-b28e-0cee25a86984")
 		)
 		(instances
 			(project "VCF"
@@ -11664,7 +11664,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 114.3 78.232 90)
 			(effects
 				(font
@@ -11733,7 +11733,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 205.232 93.98 90)
 			(effects
 				(font
@@ -11829,7 +11829,7 @@
 			)
 		)
 		(pin "5"
-			(uuid "ac934291-f6b9-4fb3-add4-59e16bde3363")
+			(uuid "ac934291-f6b9-4fb3-add4-59e16bde3366")
 		)
 		(pin "3"
 			(uuid "c93081db-7332-40ac-a244-2a5d7093f374")
@@ -11841,16 +11841,16 @@
 			(uuid "fac6b960-0dcb-42e4-8d21-fa7d0b15d09d")
 		)
 		(pin "6"
-			(uuid "19a69ad1-0548-4e63-b507-8681a8839444")
+			(uuid "19a69ad1-0548-4e63-b507-8681a8839447")
 		)
 		(pin "7"
-			(uuid "41512516-6710-4fbe-8180-b20f37c62dff")
+			(uuid "41512516-6710-4fbe-8180-b20f37c62e02")
 		)
 		(pin "8"
-			(uuid "7079f2ee-7d2c-4f7f-8030-d8f400a47d60")
+			(uuid "7079f2ee-7d2c-4f7f-8030-d8f400a47d63")
 		)
 		(pin "4"
-			(uuid "f3835eed-0c6b-4ca0-b28e-0cee25a86982")
+			(uuid "f3835eed-0c6b-4ca0-b28e-0cee25a86985")
 		)
 		(instances
 			(project "VCF"
@@ -12169,7 +12169,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 97.79 50.292 90)
 			(effects
 				(font
@@ -12236,7 +12236,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 127.762 133.35 90)
 			(effects
 				(font
@@ -12303,7 +12303,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 137.922 133.35 90)
 			(effects
 				(font
@@ -12372,7 +12372,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 227.33 71.882 90)
 			(effects
 				(font
@@ -12439,7 +12439,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 172.212 133.35 90)
 			(effects
 				(font
@@ -12508,7 +12508,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 205.232 133.35 90)
 			(effects
 				(font
@@ -12641,7 +12641,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 123.19 117.602 90)
 			(effects
 				(font
@@ -12930,7 +12930,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 212.852 133.35 90)
 			(effects
 				(font
@@ -13332,7 +13332,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 73.66 57.912 90)
 			(effects
 				(font
@@ -13400,7 +13400,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 134.62 158.242 90)
 			(effects
 				(font
@@ -13601,7 +13601,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 150.622 99.06 90)
 			(effects
 				(font
@@ -13669,7 +13669,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 54.61 31.242 90)
 			(effects
 				(font
@@ -13964,22 +13964,22 @@
 			)
 		)
 		(pin "5"
-			(uuid "ac934291-f6b9-4fb3-add4-59e16bde3364")
+			(uuid "ac934291-f6b9-4fb3-add4-59e16bde3367")
 		)
 		(pin "3"
-			(uuid "98864ac0-f301-43d2-8e21-45bc69cf2322")
+			(uuid "98864ac0-f301-43d2-8e21-45bc69cf2323")
 		)
 		(pin "2"
-			(uuid "3baa2ff8-4dfa-4969-a79f-e877b9af7ae2")
+			(uuid "3baa2ff8-4dfa-4969-a79f-e877b9af7ae3")
 		)
 		(pin "1"
-			(uuid "4ccb7805-0481-4e29-ab82-d9cb30251056")
+			(uuid "4ccb7805-0481-4e29-ab82-d9cb30251057")
 		)
 		(pin "6"
-			(uuid "19a69ad1-0548-4e63-b507-8681a8839445")
+			(uuid "19a69ad1-0548-4e63-b507-8681a8839448")
 		)
 		(pin "7"
-			(uuid "41512516-6710-4fbe-8180-b20f37c62e00")
+			(uuid "41512516-6710-4fbe-8180-b20f37c62e03")
 		)
 		(pin "8"
 			(uuid "444ab36f-e195-46da-8b6f-be3d0e569689")
@@ -14223,7 +14223,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 230.632 133.35 90)
 			(effects
 				(font
@@ -14358,7 +14358,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 184.912 99.06 90)
 			(effects
 				(font
@@ -14587,25 +14587,25 @@
 			(uuid "85ea6ccd-1b9e-459b-a7da-2bd1df1513f0")
 		)
 		(pin "4"
-			(uuid "5f23055c-d32b-4a62-b9e3-66ccffa68b36")
+			(uuid "5f23055c-d32b-4a62-b9e3-66ccffa68b37")
 		)
 		(pin "6"
 			(uuid "5c352e94-90ee-4e44-b792-be7c657cb9da")
 		)
 		(pin "8"
-			(uuid "4eced756-052e-455e-96c3-b725b5ffd133")
+			(uuid "4eced756-052e-455e-96c3-b725b5ffd134")
 		)
 		(pin "5"
 			(uuid "18527cc9-fab9-4701-ae00-3f1f057476b5")
 		)
 		(pin "1"
-			(uuid "6f8481f5-4e8d-46dd-8eb2-36499790b504")
+			(uuid "6f8481f5-4e8d-46dd-8eb2-36499790b505")
 		)
 		(pin "3"
-			(uuid "f02ae158-af90-4345-8e40-dd8e8c128550")
+			(uuid "f02ae158-af90-4345-8e40-dd8e8c128551")
 		)
 		(pin "2"
-			(uuid "92eff0a5-15fe-4b5b-9ada-e04562b42234")
+			(uuid "92eff0a5-15fe-4b5b-9ada-e04562b42235")
 		)
 		(instances
 			(project "VCF"
@@ -14642,7 +14642,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 54.61 57.912 90)
 			(effects
 				(font
@@ -14841,7 +14841,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 167.64 117.602 90)
 			(effects
 				(font
@@ -14908,7 +14908,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 230.632 93.98 90)
 			(effects
 				(font
@@ -15132,7 +15132,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
 			(at 212.852 93.98 90)
 			(effects
 				(font
@@ -15572,22 +15572,22 @@
 			)
 		)
 		(pin "5"
-			(uuid "ac934291-f6b9-4fb3-add4-59e16bde3364")
+			(uuid "ac934291-f6b9-4fb3-add4-59e16bde3368")
 		)
 		(pin "3"
-			(uuid "98864ac0-f301-43d2-8e21-45bc69cf2322")
+			(uuid "98864ac0-f301-43d2-8e21-45bc69cf2324")
 		)
 		(pin "2"
-			(uuid "3baa2ff8-4dfa-4969-a79f-e877b9af7ae2")
+			(uuid "3baa2ff8-4dfa-4969-a79f-e877b9af7ae4")
 		)
 		(pin "1"
-			(uuid "4ccb7805-0481-4e29-ab82-d9cb30251056")
+			(uuid "4ccb7805-0481-4e29-ab82-d9cb30251058")
 		)
 		(pin "6"
-			(uuid "19a69ad1-0548-4e63-b507-8681a8839445")
+			(uuid "19a69ad1-0548-4e63-b507-8681a8839449")
 		)
 		(pin "7"
-			(uuid "41512516-6710-4fbe-8180-b20f37c62e00")
+			(uuid "41512516-6710-4fbe-8180-b20f37c62e04")
 		)
 		(pin "8"
 			(uuid "4a291458-860a-465a-96cf-f9851b8334fc")

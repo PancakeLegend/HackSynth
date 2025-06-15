@@ -1,4 +1,4 @@
-26086325877161418
+26088075865242678
 177
 125 x 50
 
@@ -61162,6 +61162,13 @@ HackSynth
 R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
 Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
 Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+2
+2
+HackSynth
+R_Vertical_P2.54mm
+Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+
 0
 2
 2
