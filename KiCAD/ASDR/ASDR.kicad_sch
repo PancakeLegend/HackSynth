@@ -3061,6 +3061,12 @@
 		(color 0 0 0 0)
 		(uuid "ed789dc9-fa56-4ec3-9b98-980e8fedb02c")
 	)
+	(junction
+		(at 33.02 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f12ca297-38d4-4804-8aa3-141de7a93728")
+	)
 	(wire
 		(pts
 			(xy 252.73 95.25) (xy 254 95.25)
@@ -4253,6 +4259,16 @@
 	)
 	(wire
 		(pts
+			(xy 33.02 105.41) (xy 33.02 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c050bb3a-57dc-4445-a74b-4a8afcfa9009")
+	)
+	(wire
+		(pts
 			(xy 266.7 100.33) (xy 274.32 100.33)
 		)
 		(stroke
@@ -4632,7 +4648,7 @@
 		(uuid "ff6921b0-030e-41b1-b45a-98e4dc405a5b")
 	)
 	(image
-		(at -68.58 95.25)
+		(at 182.245 10.795)
 		(scale 0.396342)
 		(uuid "b406ba78-1646-4df5-9a9a-86428d026921")
 		(data "iVBORw0KGgoAAAANSUhEUgAACOoAAASyCAYAAAACxZaCAAAAAXNSR0IArs4c6QAAAARnQU1BAACx"
@@ -8624,14 +8640,12 @@
 	)
 	(symbol
 		(lib_id "HackSynth:R_Potentiometer")
-		(at 173.99 77.47 90)
-		(mirror x)
+		(at 173.99 77.47 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0085d040-dbde-4bbd-8d75-d05357864a7a")
 		(property "Reference" "RV2"
 			(at 173.99 71.12 90)
@@ -8843,7 +8857,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100R"
 			(at 163.83 108.204 90)
 			(effects
 				(font
@@ -9564,14 +9578,12 @@
 	)
 	(symbol
 		(lib_id "HackSynth:R_Potentiometer")
-		(at 173.99 95.25 90)
-		(mirror x)
+		(at 173.99 95.25 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "281c0c1c-cf28-4372-9344-5df7769f43ad")
 		(property "Reference" "RV3"
 			(at 173.99 88.9 90)
@@ -10906,6 +10918,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 33.02 118.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "65e47ceb-a980-4dea-b172-a16cada2a9ac")
+		(property "Reference" "#PWR028"
+			(at 33.02 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 33.02 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 33.02 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 33.02 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 33.02 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "319980eb-5a1e-4798-a4d9-e1b3c2a63fa8")
+		)
+		(instances
+			(project "ASDR"
+				(path "/6d643dfc-e3ba-4819-8915-ad269ac53831"
+					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Transistor_BJT:BC550")
 		(at 55.88 100.33 0)
 		(unit 1)
@@ -11329,14 +11406,12 @@
 	)
 	(symbol
 		(lib_id "HackSynth:R_Potentiometer")
-		(at 173.99 113.03 90)
-		(mirror x)
+		(at 173.99 113.03 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "82fae960-a25f-4490-ba55-1bd475248678")
 		(property "Reference" "RV4"
 			(at 173.99 106.68 90)
@@ -11929,7 +12004,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100R"
 			(at 163.576 90.424 90)
 			(effects
 				(font
