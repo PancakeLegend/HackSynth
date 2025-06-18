@@ -6,7 +6,7 @@
 	(descr "Potentiometer, horizontal, Bourns 3339S, http://www.bourns.com/docs/Product-Datasheets/3339.pdf")
 	(tags "Potentiometer horizontal Bourns 3339S")
 	(property "Reference" "REF**"
-		(at 0 -2.775 0)
+		(at 0 4.35 0)
 		(layer "F.SilkS")
 		(uuid "4691f5e0-9e8c-4e17-a252-a87610943cbb")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "TrimPot_Bourns_3339S_Horizontal"
-		(at 0 7.855 0)
+		(at 0 4.4 0)
 		(layer "F.Fab")
 		(uuid "f5e14c17-1af5-4ac6-b167-7e93ec7e4345")
 		(effects
@@ -53,28 +53,8 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start -3.54 -1.635)
-		(end -3.54 6.715)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "4a2aac02-72e0-4ef8-ad6c-dc49eb63beba")
-	)
-	(fp_line
-		(start -3.54 -1.635)
-		(end 2.65 -1.635)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "0717346d-58e2-41ad-a28a-e75824004ccb")
-	)
-	(fp_line
-		(start -3.54 6.715)
-		(end 2.65 6.715)
+		(start -3.5 -3.535)
+		(end -3.5 2.655)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -83,38 +63,8 @@
 		(uuid "6fb999df-71ff-46e3-b540-150087dce5c7")
 	)
 	(fp_line
-		(start 2.65 -1.635)
-		(end 2.65 6.715)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "ffcd1237-febf-4fc4-bdd5-cce9874017c9")
-	)
-	(fp_line
-		(start 2.65 -1.38)
-		(end 2.65 6.46)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "6209ec90-199c-4d22-b805-a9524cb1efe0")
-	)
-	(fp_line
-		(start 2.65 -1.38)
-		(end 4.68 -1.38)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "5599278e-c3ff-42d3-91b9-23e655ba7c01")
-	)
-	(fp_line
-		(start 2.65 6.46)
-		(end 4.68 6.46)
+		(start -3 2.655)
+		(end -3 3.5)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -123,8 +73,18 @@
 		(uuid "b45bc521-047d-47c9-a789-6d3f7fe48434")
 	)
 	(fp_line
-		(start 4.68 -1.38)
-		(end 4.68 6.46)
+		(start 3 2.655)
+		(end 3 3.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5599278e-c3ff-42d3-91b9-23e655ba7c01")
+	)
+	(fp_line
+		(start 3 3.5)
+		(end -3 3.5)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -132,9 +92,39 @@
 		(layer "F.SilkS")
 		(uuid "74e2c929-84a7-4628-9b35-166fa1416f04")
 	)
+	(fp_line
+		(start 3.5 -3.535)
+		(end -3.5 -3.535)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4a2aac02-72e0-4ef8-ad6c-dc49eb63beba")
+	)
+	(fp_line
+		(start 3.5 -3.535)
+		(end 3.5 2.655)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0717346d-58e2-41ad-a28a-e75824004ccb")
+	)
+	(fp_line
+		(start 3.5 2.655)
+		(end -3.5 2.655)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ffcd1237-febf-4fc4-bdd5-cce9874017c9")
+	)
 	(fp_rect
-		(start -3.68 -1.78)
-		(end 4.82 6.86)
+		(start -3.63 -3.675)
+		(end 3.61 3.625)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -144,8 +134,8 @@
 		(uuid "190bc3e8-fbe1-46c6-ba0f-d6d783db0acb")
 	)
 	(fp_rect
-		(start -3.43 -1.525)
-		(end 2.54 6.605)
+		(start -3.4 -3.5)
+		(end 3.4 2.545)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -155,8 +145,8 @@
 		(uuid "46eb735c-f5cc-47e9-8007-a25b8013e3ba")
 	)
 	(fp_rect
-		(start 2.54 -1.27)
-		(end 4.57 6.35)
+		(start -3 2.6)
+		(end 3 3.4)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -166,7 +156,7 @@
 		(uuid "4945bb55-3b25-412e-8116-dc4bc8b0b17b")
 	)
 	(fp_text user "${REFERENCE}"
-		(at -0.445 2.54 0)
+		(at -0.01 1.592 0)
 		(layer "F.Fab")
 		(uuid "d0d8dc33-eb2b-4000-b4e8-93b6f12a61c0")
 		(effects
@@ -177,7 +167,7 @@
 		)
 	)
 	(pad "1" thru_hole circle
-		(at 0 0)
+		(at 2.53 0.005 270)
 		(size 1.44 1.44)
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
@@ -185,7 +175,7 @@
 		(uuid "4124fa7f-a1c4-437d-a816-ef384bb20465")
 	)
 	(pad "2" thru_hole circle
-		(at -2.54 2.54)
+		(at -0.01 -2.535 270)
 		(size 1.44 1.44)
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
@@ -193,7 +183,7 @@
 		(uuid "5e2d4085-fa72-4f5b-8607-5fad91cc4364")
 	)
 	(pad "3" thru_hole circle
-		(at 0 5.08)
+		(at -2.55 0.005 270)
 		(size 1.44 1.44)
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
@@ -203,13 +193,13 @@
 	(embedded_fonts no)
 	(model "C:/Users/ocd/OneDrive/Drafting/CCHS/HackSynth/KiCAD/HackSynth.pretty/3362_Trim_Pot.step"
 		(offset
-			(xyz 0 -2.54 0)
+			(xyz 0 0 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -90 -0 -90)
+			(xyz -90 -0 -0)
 		)
 	)
 )
