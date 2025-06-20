@@ -1237,6 +1237,172 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "HackSynth:R_Potentiometer_Trim"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "RV2"
+				(at -2.54 1.2701 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Value" "R_Potentiometer_Trim 1k"
+				(at -2.54 -1.2699 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Footprint" "HackSynth:TrimPot_Bourns_3339S_Horizontal"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Trim-potentiometer"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "resistor variable trimpot trimmer"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Potentiometer*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_Potentiometer_Trim_0_1"
+				(rectangle
+					(start 1.016 2.54)
+					(end -1.016 -2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.524 0.762) (xy 1.524 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 1.524 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_Potentiometer_Trim_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 1.27)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "HackSynth:UA776"
 			(pin_names
 				(offset 0.127)
@@ -9602,7 +9768,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 116.84 170.942 90)
 			(effects
 				(font
@@ -9825,7 +9991,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 92.71 117.602 90)
 			(effects
 				(font
@@ -10609,7 +10775,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 101.6 78.232 90)
 			(effects
 				(font
@@ -10872,7 +11038,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 89.662 90.17 90)
 			(effects
 				(font
@@ -11011,7 +11177,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 138.938 41.91 90)
 			(effects
 				(font
@@ -11079,7 +11245,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 141.478 111.76 90)
 			(effects
 				(font
@@ -11148,7 +11314,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 227.33 109.982 90)
 			(effects
 				(font
@@ -11265,7 +11431,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3f6c4119-2e45-4159-8493-c86c6bc96906")
-		(property "Reference" "SW1"
+		(property "Reference" "HARD/SOFT1"
 			(at 156.21 151.384 0)
 			(effects
 				(font
@@ -11320,7 +11486,7 @@
 		(instances
 			(project "VCF"
 				(path "/33bfd214-aaee-4460-96d4-9e01d485922e"
-					(reference "SW1")
+					(reference "HARD/SOFT1")
 					(unit 1)
 				)
 			)
@@ -11664,7 +11830,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 114.3 78.232 90)
 			(effects
 				(font
@@ -11733,7 +11899,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 205.232 93.98 90)
 			(effects
 				(font
@@ -12169,7 +12335,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 97.79 50.292 90)
 			(effects
 				(font
@@ -12236,7 +12402,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 127.762 133.35 90)
 			(effects
 				(font
@@ -12303,7 +12469,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 137.922 133.35 90)
 			(effects
 				(font
@@ -12372,7 +12538,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 227.33 71.882 90)
 			(effects
 				(font
@@ -12439,7 +12605,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 172.212 133.35 90)
 			(effects
 				(font
@@ -12508,7 +12674,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 205.232 133.35 90)
 			(effects
 				(font
@@ -12616,6 +12782,77 @@
 		)
 	)
 	(symbol
+		(lib_id "HackSynth:R_Potentiometer_Trim")
+		(at 82.55 119.38 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7172689b-360f-428f-9970-957fe69575a4")
+		(property "Reference" "RV1"
+			(at 82.55 113.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R_Trim 100k"
+			(at 82.55 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "HackSynth:TrimPot_Bourns_3339S_Horizontal"
+			(at 82.55 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 82.55 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Trim-potentiometer"
+			(at 82.55 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6217465e-86a2-4f77-b92e-48279530c6e6")
+		)
+		(pin "1"
+			(uuid "49ebf732-4520-45b8-b87a-7d5af3d3a5de")
+		)
+		(pin "3"
+			(uuid "02b8d46c-11cd-44e5-89f1-967b3fc2f905")
+		)
+		(instances
+			(project ""
+				(path "/33bfd214-aaee-4460-96d4-9e01d485922e"
+					(reference "RV1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "HackSynth:R")
 		(at 123.19 119.38 270)
 		(unit 1)
@@ -12641,7 +12878,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 123.19 117.602 90)
 			(effects
 				(font
@@ -12930,7 +13167,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 212.852 133.35 90)
 			(effects
 				(font
@@ -12967,76 +13204,6 @@
 			(project "VCF"
 				(path "/33bfd214-aaee-4460-96d4-9e01d485922e"
 					(reference "R23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "HackSynth:R_Potentiometer")
-		(at 82.55 119.38 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "82fae960-a25f-4490-ba55-1bd475248678")
-		(property "Reference" "RV1"
-			(at 82.55 113.03 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100k"
-			(at 82.55 115.57 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "HackSynth:Potentiometer_Alps_RK09K_Horizontal"
-			(at 82.55 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 82.55 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Potentiometer"
-			(at 82.55 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a3996349-252f-428c-aec3-176b308f1c1e")
-		)
-		(pin "1"
-			(uuid "ca44b012-f1b6-47e7-8734-13f9f4236e80")
-		)
-		(pin "3"
-			(uuid "d7e482ac-cc12-45f0-827a-7026b8541eb8")
-		)
-		(instances
-			(project "VCF"
-				(path "/33bfd214-aaee-4460-96d4-9e01d485922e"
-					(reference "RV1")
 					(unit 1)
 				)
 			)
@@ -13332,7 +13499,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 73.66 57.912 90)
 			(effects
 				(font
@@ -13400,7 +13567,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 134.62 158.242 90)
 			(effects
 				(font
@@ -13601,7 +13768,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 150.622 99.06 90)
 			(effects
 				(font
@@ -13669,7 +13836,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 54.61 31.242 90)
 			(effects
 				(font
@@ -14223,7 +14390,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 230.632 133.35 90)
 			(effects
 				(font
@@ -14358,7 +14525,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 184.912 99.06 90)
 			(effects
 				(font
@@ -14642,7 +14809,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 54.61 57.912 90)
 			(effects
 				(font
@@ -14841,7 +15008,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 167.64 117.602 90)
 			(effects
 				(font
@@ -14908,7 +15075,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 230.632 93.98 90)
 			(effects
 				(font
@@ -15132,7 +15299,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
+		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 212.852 93.98 90)
 			(effects
 				(font
@@ -15385,7 +15552,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f270802a-d197-44da-8ef2-be7238e42766")
-		(property "Reference" "SW2"
+		(property "Reference" "LP/BP1"
 			(at 243.84 99.822 0)
 			(effects
 				(font
@@ -15440,7 +15607,7 @@
 		(instances
 			(project "VCF"
 				(path "/33bfd214-aaee-4460-96d4-9e01d485922e"
-					(reference "SW2")
+					(reference "LP/BP1")
 					(unit 1)
 				)
 			)

@@ -10768,7 +10768,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HackSynth:CP_Radial_D5.2mm_P2.50mm_LayDown"
+		(property "Footprint" "HackSynth:CP_Radial_D4.0mm_P1.50mm"
 			(at 120.65 100.33 0)
 			(effects
 				(font
