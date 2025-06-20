@@ -5232,7 +5232,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "HackSynth:CP_Radial_D5.2mm_P2.50mm_LayDown"
+		(property "Footprint" "HackSynth:CP_Radial_D4.0mm_P1.50mm"
 			(at 121.6152 160.02 0)
 			(effects
 				(font
@@ -6540,7 +6540,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "HackSynth:CP_Radial_D5.2mm_P2.50mm_LayDown"
+		(property "Footprint" "HackSynth:CP_Radial_D4.0mm_P1.50mm"
 			(at 148.2852 160.02 0)
 			(effects
 				(font
