@@ -1,4 +1,4 @@
-26088075865768173
+26091579051701022
 177
 125 x 50
 
@@ -60963,6 +60963,13 @@ CCHS Logo - 10mm
 0
 0
 HackSynth
+CP_Radial_D4.0mm_P1.50mm
+CP, Radial series, Radial, pin pitch=1.50mm, diameter=4mm, height=7mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 1.50mm diameter 4mm height 7mm Electrolytic Capacitor
+0
+2
+2
+HackSynth
 CP_Radial_D5.2mm_P2.50mm_LayDown
 CP, Radial series, Radial, pin pitch=5.00mm, diameter=10mm, height=16mm, Electrolytic Capacitor
 CP Radial series Radial pin pitch 5.00mm diameter 10mm height 16mm Electrolytic Capacitor
@@ -61148,6 +61155,13 @@ HackSynth
 PinHeader_2x05_P2.54mm_Vertical
 Through hole straight pin header, 2x05, 2.54mm pitch, double rows
 Through hole pin header THT 2x05 2.54mm double row
+0
+10
+10
+HackSynth
+PinHeader_2x05_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x05, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x05 2.54mm double row
 0
 10
 10
