@@ -1,0 +1,217 @@
+(footprint "D_Vertical_P2.54mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
+	(property "Reference" "REF**"
+		(at -1.3 0 0)
+		(layer "F.SilkS")
+		(uuid "79719f80-3ae0-425a-b056-a981eaba1761")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify right)
+		)
+	)
+	(property "Value" "D_Vertical_P2.54mm"
+		(at 0 2.286 0)
+		(layer "F.Fab")
+		(uuid "ce684870-5977-4a01-afb7-677d1836c1ca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0806a5a1-ed62-4712-a65f-d27fa8c20514")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "768c8f11-bc41-4c2c-9929-9450b8875734")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 0.625 -0.780623)
+		(end 0.625001 -0.780624)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3842fa8c-7aa2-41fc-b70e-fb64a7758702")
+	)
+	(fp_line
+		(start 1.1 -0.25)
+		(end 1.3 0)
+		(stroke
+			(width 0.35)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a22e3d9d-e67d-4c24-8ff6-7f6a186a74d9")
+	)
+	(fp_line
+		(start 1.3 0)
+		(end 1.1 0.25)
+		(stroke
+			(width 0.35)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "01c7358c-81bf-459c-b5e7-023965833c7f")
+	)
+	(fp_line
+		(start 1.6 -0.8)
+		(end 1.6 0.8)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "1a804c41-afea-47ea-8244-f3d5ceb304af")
+	)
+	(fp_line
+		(start 1.6 0)
+		(end 0.625001 -0.780624)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "cae1b391-7af9-4ae7-9c0c-2c06507b4041")
+	)
+	(fp_line
+		(start 1.6 0)
+		(end 0.625001 0.780624)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "8df8984a-a60f-4dbe-a6fa-5ad8ac81181a")
+	)
+	(fp_line
+		(start 1.61 0)
+		(end 1.6 0)
+		(stroke
+			(width 0.0001)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c9dc6890-67b2-44af-b13c-550e3df6ae8d")
+	)
+	(fp_arc
+		(start 0.624997 -0.780625)
+		(mid 0.999996 0.000001)
+		(end 0.624991 0.780624)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3346bb28-7be2-407c-8dd4-fb7e5566fefb")
+	)
+	(fp_circle
+		(center 1.6 0)
+		(end 1.61 0)
+		(stroke
+			(width 0.0001)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "61c5d236-717a-49b1-ac30-238e13813643")
+	)
+	(fp_rect
+		(start -1.27 -1.27)
+		(end 3.556 1.27)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "f1a4203f-08b4-41f3-a89d-2f72a9bd6830")
+	)
+	(fp_rect
+		(start -1.27 -1.25)
+		(end 3.302 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "c4dc9801-576f-4e08-9457-5ceb22b7482e")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 1.27 0 0)
+		(layer "F.Fab")
+		(uuid "3476f796-3bac-4127-9e59-c91a7d8c66d1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5f0fee24-e5a4-4210-911e-b2c2cb600004")
+	)
+	(pad "2" thru_hole roundrect
+		(at 2.54 0)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15625)
+		(uuid "b744127a-1356-4b6d-8528-645909e8a658")
+	)
+	(group ""
+		(uuid "82b682f0-d75e-4f77-a9f5-c02b033982a9")
+		(members "1a804c41-afea-47ea-8244-f3d5ceb304af" "3346bb28-7be2-407c-8dd4-fb7e5566fefb"
+			"3842fa8c-7aa2-41fc-b70e-fb64a7758702" "61c5d236-717a-49b1-ac30-238e13813643"
+			"8df8984a-a60f-4dbe-a6fa-5ad8ac81181a" "c9dc6890-67b2-44af-b13c-550e3df6ae8d"
+			"cae1b391-7af9-4ae7-9c0c-2c06507b4041"
+		)
+	)
+	(embedded_fonts no)
+	(model "C:/Users/ocd/OneDrive/Drafting/CCHS/HackSynth/KiCAD/HackSynth.pretty/D_Vertical_P2.54mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

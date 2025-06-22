@@ -5,7 +5,7 @@
 	(uuid "33bfd214-aaee-4460-96d4-9e01d485922e")
 	(paper "A4")
 	(title_block
-		(title "VCF")
+		(title "HackSynth VCF")
 		(date "2025-06-15")
 		(rev "1-1")
 	)
@@ -2356,7 +2356,7 @@
 	)
 	(text "SOFT"
 		(exclude_from_sim no)
-		(at 156.464 165.608 0)
+		(at 155.956 166.116 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2366,7 +2366,7 @@
 	)
 	(text "BP"
 		(exclude_from_sim no)
-		(at 245.11 103.124 0)
+		(at 245.11 103.378 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2386,7 +2386,7 @@
 	)
 	(text "LP"
 		(exclude_from_sim no)
-		(at 245.11 108.204 0)
+		(at 245.11 108.458 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2796,7 +2796,7 @@
 	)
 	(wire
 		(pts
-			(xy 321.31 226.06) (xy 314.96 226.06)
+			(xy 71.12 166.37) (xy 64.77 166.37)
 		)
 		(stroke
 			(width 0)
@@ -2866,7 +2866,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 231.14) (xy 289.56 233.68)
+			(xy 39.37 171.45) (xy 39.37 173.99)
 		)
 		(stroke
 			(width 0)
@@ -2886,7 +2886,7 @@
 	)
 	(wire
 		(pts
-			(xy 321.31 231.14) (xy 320.04 231.14)
+			(xy 71.12 171.45) (xy 69.85 171.45)
 		)
 		(stroke
 			(width 0)
@@ -2926,7 +2926,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 111.76) (xy 232.41 111.76)
+			(xy 227.33 111.76) (xy 232.41 111.76)
 		)
 		(stroke
 			(width 0)
@@ -3026,7 +3026,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 111.76) (xy 223.52 111.76)
+			(xy 214.63 111.76) (xy 219.71 111.76)
 		)
 		(stroke
 			(width 0)
@@ -3096,7 +3096,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 228.6) (xy 321.31 228.6)
+			(xy 69.85 168.91) (xy 71.12 168.91)
 		)
 		(stroke
 			(width 0)
@@ -3106,7 +3106,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 231.14) (xy 320.04 233.68)
+			(xy 69.85 171.45) (xy 69.85 173.99)
 		)
 		(stroke
 			(width 0)
@@ -3536,7 +3536,7 @@
 	)
 	(wire
 		(pts
-			(xy 290.83 226.06) (xy 284.48 226.06)
+			(xy 40.64 166.37) (xy 34.29 166.37)
 		)
 		(stroke
 			(width 0)
@@ -3636,7 +3636,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 228.6) (xy 290.83 228.6)
+			(xy 39.37 168.91) (xy 40.64 168.91)
 		)
 		(stroke
 			(width 0)
@@ -3676,7 +3676,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 224.79) (xy 289.56 228.6)
+			(xy 39.37 165.1) (xy 39.37 168.91)
 		)
 		(stroke
 			(width 0)
@@ -3716,7 +3716,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 224.79) (xy 320.04 228.6)
+			(xy 69.85 165.1) (xy 69.85 168.91)
 		)
 		(stroke
 			(width 0)
@@ -3726,7 +3726,7 @@
 	)
 	(wire
 		(pts
-			(xy 314.96 226.06) (xy 314.96 233.68)
+			(xy 64.77 166.37) (xy 64.77 173.99)
 		)
 		(stroke
 			(width 0)
@@ -3836,7 +3836,7 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 226.06) (xy 284.48 233.68)
+			(xy 34.29 166.37) (xy 34.29 173.99)
 		)
 		(stroke
 			(width 0)
@@ -3976,7 +3976,7 @@
 	)
 	(wire
 		(pts
-			(xy 290.83 231.14) (xy 289.56 231.14)
+			(xy 40.64 171.45) (xy 39.37 171.45)
 		)
 		(stroke
 			(width 0)
@@ -9752,16 +9752,15 @@
 		(dnp no)
 		(uuid "045aefc5-80a1-42d3-a210-ecec5a9983e6")
 		(property "Reference" "R9"
-			(at 115.1889 170.053 90)
+			(at 116.84 169.926 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "100R"
-			(at 116.84 167.894 90)
+			(at 116.84 172.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9975,16 +9974,15 @@
 		(dnp no)
 		(uuid "086b858d-aa8f-4c6c-ac18-03bb85755346")
 		(property "Reference" "R5"
-			(at 91.0589 116.713 90)
+			(at 92.71 116.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "100k"
-			(at 92.71 114.554 90)
+			(at 92.71 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10685,7 +10683,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 320.04 224.79 0)
+		(at 69.85 165.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10694,7 +10692,7 @@
 		(fields_autoplaced yes)
 		(uuid "23d8a024-567a-4e9b-b59d-f737c020682e")
 		(property "Reference" "#PWR033"
-			(at 320.04 228.6 0)
+			(at 69.85 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10703,7 +10701,7 @@
 			)
 		)
 		(property "Value" "VDD"
-			(at 320.04 219.71 0)
+			(at 69.85 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10711,7 +10709,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 320.04 224.79 0)
+			(at 69.85 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10720,7 +10718,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 320.04 224.79 0)
+			(at 69.85 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10729,7 +10727,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 320.04 224.79 0)
+			(at 69.85 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10759,16 +10757,15 @@
 		(dnp no)
 		(uuid "2403bef3-ee6b-44f5-aef5-2078a4848048")
 		(property "Reference" "R7"
-			(at 99.9489 77.343 90)
+			(at 101.6 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "470k"
-			(at 101.6 75.184 90)
+			(at 101.6 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11091,19 +11088,21 @@
 		(dnp no)
 		(uuid "2c474253-2bf7-4712-8555-8baf09c0313d")
 		(property "Reference" "RV3"
-			(at 87.122 81.026 0)
+			(at 89.154 78.994 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "FREQ 100k"
-			(at 84.328 78.74 0)
+			(at 89.154 80.772 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "HackSynth:Potentiometer_Alps_RK09K_Horizontal"
@@ -11289,7 +11288,7 @@
 	)
 	(symbol
 		(lib_id "HackSynth:R")
-		(at 227.33 111.76 270)
+		(at 223.52 111.76 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11297,25 +11296,23 @@
 		(dnp no)
 		(uuid "34545125-c220-4508-abea-f855862146b5")
 		(property "Reference" "R25"
-			(at 225.6789 109.093 90)
+			(at 223.52 109.474 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "100k"
-			(at 225.552 106.934 90)
+			(at 223.52 111.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 227.33 109.982 90)
+			(at 223.52 109.982 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11324,7 +11321,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 227.33 111.76 0)
+			(at 223.52 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11333,7 +11330,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 227.33 111.76 0)
+			(at 223.52 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11494,7 +11491,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Socket")
-		(at 326.39 228.6 0)
+		(at 76.2 168.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11503,7 +11500,7 @@
 		(fields_autoplaced yes)
 		(uuid "3ff1106d-d87d-4f1b-99f0-ac0d882160df")
 		(property "Reference" "J6"
-			(at 327.66 227.3299 0)
+			(at 77.47 167.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11512,7 +11509,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 327.66 229.8699 0)
+			(at 77.47 170.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11521,7 +11518,7 @@
 			)
 		)
 		(property "Footprint" "HackSynth:JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal"
-			(at 326.39 228.6 0)
+			(at 76.2 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11530,7 +11527,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 326.39 228.6 0)
+			(at 76.2 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11539,7 +11536,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 326.39 228.6 0)
+			(at 76.2 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11814,16 +11811,15 @@
 		(dnp no)
 		(uuid "49a6e28c-d270-46ee-84a4-13499f82196c")
 		(property "Reference" "R8"
-			(at 112.6489 77.343 90)
+			(at 114.3 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "470k"
-			(at 114.3 75.184 90)
+			(at 114.3 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11882,21 +11878,21 @@
 		(dnp no)
 		(uuid "566e0893-3114-4411-bc89-a84832896fb7")
 		(property "Reference" "R20"
-			(at 201.168 95.25 0)
+			(at 205.232 93.218 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "100k"
-			(at 200.66 93.218 0)
+			(at 205.232 94.996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
@@ -12168,7 +12164,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Socket")
-		(at 295.91 228.6 0)
+		(at 45.72 168.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12177,7 +12173,7 @@
 		(fields_autoplaced yes)
 		(uuid "63858b32-591e-44ca-838a-ae90c411ffa4")
 		(property "Reference" "J5"
-			(at 297.18 227.3299 0)
+			(at 46.99 167.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12186,7 +12182,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 297.18 229.8699 0)
+			(at 46.99 170.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12195,7 +12191,7 @@
 			)
 		)
 		(property "Footprint" "HackSynth:JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal"
-			(at 295.91 228.6 0)
+			(at 45.72 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12204,7 +12200,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 295.91 228.6 0)
+			(at 45.72 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12213,7 +12209,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 295.91 228.6 0)
+			(at 45.72 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12250,21 +12246,19 @@
 		(dnp no)
 		(uuid "6563f333-3211-4b3a-8377-91889ea2c374")
 		(property "Reference" "C1"
-			(at 203.2 77.724 90)
+			(at 201.93 76.962 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "1uF"
-			(at 203.2 75.184 90)
+			(at 201.93 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "HackSynth:C_Ceramic_D4.5mm_P5.00mm"
@@ -12521,21 +12515,19 @@
 		(dnp no)
 		(uuid "6d171b02-29e0-4c73-b995-c4af5144504e")
 		(property "Reference" "R24"
-			(at 225.6789 70.993 90)
+			(at 227.33 71.374 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "100k"
-			(at 225.552 68.834 90)
+			(at 227.33 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
@@ -12657,21 +12649,21 @@
 		(dnp no)
 		(uuid "7040e20c-5b92-4beb-bc42-620528cb6b69")
 		(property "Reference" "R21"
-			(at 201.168 134.62 0)
+			(at 205.232 132.842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "100k"
-			(at 200.66 132.588 0)
+			(at 204.978 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
@@ -12871,7 +12863,7 @@
 			)
 		)
 		(property "Value" "470k"
-			(at 123.19 114.554 90)
+			(at 123.19 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13150,21 +13142,21 @@
 		(dnp no)
 		(uuid "81a17492-9c77-4b7a-89be-221aada306a0")
 		(property "Reference" "R23"
-			(at 209.55 134.366 0)
+			(at 212.598 132.842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "10k"
-			(at 209.042 132.334 0)
+			(at 212.598 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
@@ -13483,16 +13475,15 @@
 		(dnp no)
 		(uuid "8fafb95a-cc81-4e67-add8-86235e006acf")
 		(property "Reference" "R3"
-			(at 72.0089 57.023 90)
+			(at 73.66 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "100k"
-			(at 73.66 54.864 90)
+			(at 73.66 59.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13551,16 +13542,15 @@
 		(dnp no)
 		(uuid "94e765ae-4628-4b97-9014-d3eb3747b59d")
 		(property "Reference" "R12"
-			(at 132.9689 157.353 90)
+			(at 134.62 157.734 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "470R"
-			(at 134.62 155.194 90)
+			(at 134.62 160.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13751,21 +13741,21 @@
 		(dnp no)
 		(uuid "9b68b6cd-9ebd-4df0-a5f9-1ef5a7abd4e5")
 		(property "Reference" "R16"
-			(at 146.558 100.33 0)
+			(at 150.114 98.044 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "110k"
-			(at 146.05 98.298 0)
+			(at 150.114 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
@@ -13820,16 +13810,15 @@
 		(dnp no)
 		(uuid "a85eb229-3b49-4e83-8968-3570552899ba")
 		(property "Reference" "R1"
-			(at 52.9589 30.353 90)
+			(at 54.61 30.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "10k"
-			(at 54.61 28.194 90)
+			(at 54.61 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14012,7 +14001,7 @@
 	)
 	(symbol
 		(lib_id "power:VSS")
-		(at 320.04 233.68 180)
+		(at 69.85 173.99 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14021,7 +14010,7 @@
 		(fields_autoplaced yes)
 		(uuid "acbb09d0-95c5-4698-bb81-398dfc98a37e")
 		(property "Reference" "#PWR034"
-			(at 320.04 229.87 0)
+			(at 69.85 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14030,7 +14019,7 @@
 			)
 		)
 		(property "Value" "VSS"
-			(at 320.04 238.76 0)
+			(at 69.85 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14038,7 +14027,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 320.04 233.68 0)
+			(at 69.85 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14047,7 +14036,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 320.04 233.68 0)
+			(at 69.85 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14056,7 +14045,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VSS\""
-			(at 320.04 233.68 0)
+			(at 69.85 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14302,7 +14291,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 284.48 233.68 0)
+		(at 34.29 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14310,7 +14299,7 @@
 		(dnp no)
 		(uuid "b4156617-6a26-4a50-9c66-a3e6f466059b")
 		(property "Reference" "#PWR029"
-			(at 284.48 240.03 0)
+			(at 34.29 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14319,7 +14308,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 284.48 238.76 0)
+			(at 34.29 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14327,7 +14316,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 284.48 233.68 0)
+			(at 34.29 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14336,7 +14325,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 284.48 233.68 0)
+			(at 34.29 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14345,7 +14334,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 284.48 233.68 0)
+			(at 34.29 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14375,19 +14364,21 @@
 		(dnp no)
 		(uuid "b526963e-6356-45fd-b57f-4d00f3fdc490")
 		(property "Reference" "R27"
-			(at 228.854 134.366 0)
+			(at 230.378 132.588 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "1k"
-			(at 228.854 132.08 0)
+			(at 230.378 134.366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
@@ -14434,7 +14425,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 289.56 224.79 0)
+		(at 39.37 165.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14443,7 +14434,7 @@
 		(fields_autoplaced yes)
 		(uuid "b6017a97-4125-4f42-aa6e-2bd43a413762")
 		(property "Reference" "#PWR030"
-			(at 289.56 228.6 0)
+			(at 39.37 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14452,7 +14443,7 @@
 			)
 		)
 		(property "Value" "VDD"
-			(at 289.56 219.71 0)
+			(at 39.37 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14460,7 +14451,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 289.56 224.79 0)
+			(at 39.37 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14469,7 +14460,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 289.56 224.79 0)
+			(at 39.37 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14478,7 +14469,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 289.56 224.79 0)
+			(at 39.37 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14508,7 +14499,7 @@
 		(dnp no)
 		(uuid "c6dad8c8-2ba9-4796-aaef-754a68f604e7")
 		(property "Reference" "R19"
-			(at 180.848 100.33 0)
+			(at 180.848 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14517,7 +14508,7 @@
 			)
 		)
 		(property "Value" "110k"
-			(at 180.34 98.298 0)
+			(at 180.34 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14793,16 +14784,15 @@
 		(dnp no)
 		(uuid "cf6b8013-65d5-4e91-95f3-4fd3f3875347")
 		(property "Reference" "R2"
-			(at 52.9589 57.023 90)
+			(at 54.61 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "100k"
-			(at 54.61 54.864 90)
+			(at 54.61 59.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14853,7 +14843,7 @@
 	)
 	(symbol
 		(lib_id "power:VSS")
-		(at 289.56 233.68 180)
+		(at 39.37 173.99 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14862,7 +14852,7 @@
 		(fields_autoplaced yes)
 		(uuid "d4eceb5f-3b5f-48bc-85c6-58ef31094f27")
 		(property "Reference" "#PWR031"
-			(at 289.56 229.87 0)
+			(at 39.37 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14871,7 +14861,7 @@
 			)
 		)
 		(property "Value" "VSS"
-			(at 289.56 238.76 0)
+			(at 39.37 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14879,7 +14869,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 289.56 233.68 0)
+			(at 39.37 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14888,7 +14878,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 289.56 233.68 0)
+			(at 39.37 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14897,7 +14887,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VSS\""
-			(at 289.56 233.68 0)
+			(at 39.37 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14993,7 +14983,7 @@
 		(dnp no)
 		(uuid "de74192d-a3ef-4d79-8290-72724fd566de")
 		(property "Reference" "R17"
-			(at 167.64 116.586 90)
+			(at 167.64 116.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15001,7 +14991,7 @@
 			)
 		)
 		(property "Value" "47k"
-			(at 167.64 114.3 90)
+			(at 167.64 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15060,19 +15050,21 @@
 		(dnp no)
 		(uuid "e19212d3-fc2e-4efe-84a4-52500ff90d31")
 		(property "Reference" "R26"
-			(at 228.854 94.996 0)
+			(at 230.124 94.996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "1k"
-			(at 228.854 92.71 0)
+			(at 230.124 93.218 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
@@ -15135,7 +15127,7 @@
 			)
 		)
 		(property "Value" "UA776"
-			(at 192.024 117.856 0)
+			(at 192.024 117.094 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15213,21 +15205,19 @@
 		(dnp no)
 		(uuid "e76d2c37-d0b4-445c-9947-513312132556")
 		(property "Reference" "C2"
-			(at 203.2 117.094 90)
+			(at 201.93 115.316 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "1uF"
-			(at 203.2 114.554 90)
+		(property "Value" "1µF"
+			(at 201.93 117.348 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "HackSynth:C_Ceramic_D4.5mm_P5.00mm"
@@ -15282,7 +15272,7 @@
 		(dnp no)
 		(uuid "e93dc9e9-b2bf-4790-8609-d6a758f51ea0")
 		(property "Reference" "R22"
-			(at 209.55 94.996 0)
+			(at 209.55 93.218 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15291,12 +15281,12 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 209.042 92.964 0)
+			(at 212.852 94.996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
@@ -15343,7 +15333,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 314.96 233.68 0)
+		(at 64.77 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15351,7 +15341,7 @@
 		(dnp no)
 		(uuid "eec5af97-f582-4c55-94c9-3fbbf61236fd")
 		(property "Reference" "#PWR032"
-			(at 314.96 240.03 0)
+			(at 64.77 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15360,7 +15350,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 314.96 238.76 0)
+			(at 64.77 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15368,7 +15358,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 314.96 233.68 0)
+			(at 64.77 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15377,7 +15367,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 314.96 233.68 0)
+			(at 64.77 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15386,7 +15376,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 314.96 233.68 0)
+			(at 64.77 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15624,7 +15614,7 @@
 		(dnp no)
 		(uuid "f7ae86bd-8285-4b1b-ad70-c7e2036db149")
 		(property "Reference" "RV2"
-			(at 80.772 53.086 0)
+			(at 80.772 51.308 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15632,7 +15622,7 @@
 			)
 		)
 		(property "Value" "FM 100k"
-			(at 78.486 51.054 0)
+			(at 78.74 53.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
