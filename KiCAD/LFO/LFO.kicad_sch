@@ -4000,7 +4000,7 @@
 		(dnp no)
 		(uuid "27e43d57-4eee-48ea-97a8-cbb697f1c058")
 		(property "Reference" "R1"
-			(at 46.99 104.1401 0)
+			(at 47.498 101.854 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4009,7 +4009,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 46.99 101.6001 0)
+			(at 47.498 103.8861 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4142,7 +4142,7 @@
 		(dnp no)
 		(uuid "405b8242-320b-4edf-a217-b58c2effab47")
 		(property "Reference" "R2"
-			(at 81.28 118.1101 0)
+			(at 81.534 117.856 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4151,7 +4151,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 81.28 115.5701 0)
+			(at 81.534 115.8239 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4512,7 +4512,7 @@
 		(dnp no)
 		(uuid "7d4fbefd-be64-4300-911e-205982c31ff2")
 		(property "Reference" "R3"
-			(at 81.28 130.8101 0)
+			(at 81.28 128.524 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4521,7 +4521,7 @@
 			)
 		)
 		(property "Value" "56k"
-			(at 81.28 128.2701 0)
+			(at 81.28 130.3021 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5065,21 +5065,19 @@
 		(dnp no)
 		(uuid "d430935c-4312-481f-bacd-b0a04c9051c6")
 		(property "Reference" "R4"
-			(at 129.1589 86.233 90)
+			(at 130.81 86.614 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "1k"
-			(at 129.032 84.074 90)
+			(at 130.81 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
@@ -5330,21 +5328,19 @@
 		(dnp no)
 		(uuid "f6b70652-1d03-40cf-a2f3-6b2ffe96c7cd")
 		(property "Reference" "R5"
-			(at 129.1589 102.743 90)
+			(at 130.81 103.124 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "1k"
-			(at 129.032 100.584 90)
+			(at 130.81 105.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"

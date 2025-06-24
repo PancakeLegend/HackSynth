@@ -6136,7 +6136,7 @@
 		(dnp no)
 		(uuid "2ff3b233-56ec-409b-b3bb-c0caf263323e")
 		(property "Reference" "R4"
-			(at 113.03 156.2099 0)
+			(at 113.03 156.464 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6145,7 +6145,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 113.03 158.7499 0)
+			(at 113.03 158.496 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7382,10 +7382,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bb43e3ac-9d66-4381-87a3-01927fc03a5e")
 		(property "Reference" "C3"
-			(at 78.74 73.66 90)
+			(at 78.74 75.184 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7393,7 +7392,7 @@
 			)
 		)
 		(property "Value" "10pF"
-			(at 78.74 76.2 90)
+			(at 78.74 77.216 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7453,21 +7452,21 @@
 		(dnp no)
 		(uuid "cc57fe33-0ced-425e-b4d8-2ce171bc3e0b")
 		(property "Reference" "R6"
-			(at 53.34 67.564 0)
+			(at 50.292 67.564 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "2M"
-			(at 53.34 70.104 0)
+			(at 50.292 69.596 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
@@ -7807,10 +7806,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "df4b3834-8e1c-414a-b5ea-6941ef4e1e87")
 		(property "Reference" "R7"
-			(at 78.74 62.23 90)
+			(at 78.74 66.294 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7818,7 +7816,7 @@
 			)
 		)
 		(property "Value" "470k"
-			(at 78.74 64.77 90)
+			(at 78.74 68.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8014,7 +8012,7 @@
 		(dnp no)
 		(uuid "e373dea3-1746-4b29-bd09-63d2e199254c")
 		(property "Reference" "R8"
-			(at 55.88 80.0099 0)
+			(at 56.134 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8023,7 +8021,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 55.88 82.5499 0)
+			(at 56.134 82.2959 0)
 			(effects
 				(font
 					(size 1.27 1.27)
