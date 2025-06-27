@@ -4651,7 +4651,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92L_Inline"
+		(property "Footprint" "HackSynth:TO-92_Inline - Handsolder"
 			(at 177.8 151.13 0)
 			(effects
 				(font
