@@ -53,37 +53,7 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start -5.12 -19.58)
-		(end -5.12 -3.69)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "726eadef-f92f-4597-a95a-de173954f20c")
-	)
-	(fp_line
-		(start -5.12 -19.58)
-		(end 5.12 -19.58)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "d882668e-fd6b-4dc1-8680-9998f910301e")
-	)
-	(fp_line
-		(start -5.12 -3.69)
-		(end 5.12 -3.69)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "04bce2e2-da30-41b3-9090-86e5d4811aa9")
-	)
-	(fp_line
-		(start -2.54 -3.69)
+		(start -2.54 -3.1)
 		(end -2.54 -1.15)
 		(stroke
 			(width 0.12)
@@ -93,7 +63,7 @@
 		(uuid "cdc15e9c-1b00-4dc0-87be-6f37a90902a6")
 	)
 	(fp_line
-		(start 0 -3.69)
+		(start 0 -3.1)
 		(end 0 -1.15)
 		(stroke
 			(width 0.12)
@@ -103,7 +73,7 @@
 		(uuid "d6109b76-ce96-4686-b22f-9904f9dbebeb")
 	)
 	(fp_line
-		(start 2.54 -3.69)
+		(start 2.54 -3.1)
 		(end 2.54 -1.15)
 		(stroke
 			(width 0.12)
@@ -111,16 +81,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "c04bc9c6-ddfd-4d54-8497-bfb2a21fe171")
-	)
-	(fp_line
-		(start 5.12 -19.58)
-		(end 5.12 -3.69)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "667871f7-b128-4d35-b27b-e08a057f711c")
 	)
 	(fp_line
 		(start -5.25 -19.71)
@@ -301,10 +261,10 @@
 		(layers "*.Cu" "*.Mask")
 		(uuid "3c8ea192-98e2-43f7-b594-65e92f7f3571")
 	)
-	(pad "4" smd custom
+	(pad "" smd custom
 		(at 0 -11.5)
 		(size 1.27 1.27)
-		(layers "F.Cu" "F.Mask" "F.SilkS" "F.Paste")
+		(layers "F.Cu" "F.Mask")
 		(options
 			(clearance outline)
 			(anchor circle)
@@ -353,7 +313,7 @@
 				(fill yes)
 			)
 		)
-		(uuid "9d39c4a7-5b98-4a55-b955-80e259600593")
+		(uuid "5ded7807-353f-4905-9e35-4ee65012ae3c")
 	)
 	(pad "A" thru_hole rect
 		(at -2.54 0)
