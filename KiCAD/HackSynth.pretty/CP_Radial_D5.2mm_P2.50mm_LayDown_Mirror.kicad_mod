@@ -1,0 +1,312 @@
+(footprint "CP_Radial_D5.2mm_P2.50mm_LayDown_Mirror"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "CP, Radial series, Radial, pin pitch=5.00mm, diameter=10mm, height=16mm, Electrolytic Capacitor")
+	(tags "CP Radial series Radial pin pitch 5.00mm diameter 10mm height 16mm Electrolytic Capacitor")
+	(property "Reference" "REF**"
+		(at 0 -14.5 0)
+		(layer "F.SilkS")
+		(uuid "ea96e465-59b0-4254-80da-0170360ab3a1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CP_Radial_D5.2mm_P2.50mm_LayDown_Mirror"
+		(at 2.5 3.5 0)
+		(layer "F.Fab")
+		(uuid "f53a2224-c5bc-483e-a17d-910cde5cbc42")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "46554c99-2442-4be8-9c36-4e32c08473df")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fd1092b3-7183-4444-b57e-2c46a6672e85")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2.5 -13)
+		(end -2.5 -4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b7f1fddc-2aed-4ea4-a6ed-0bc188ae13b5")
+	)
+	(fp_line
+		(start -2.5 -3)
+		(end -2.5 -2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "af6e586b-6df9-4b58-9ca7-0064d427c744")
+	)
+	(fp_line
+		(start -2.5 -3)
+		(end -2 -3.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0f8583c8-53cb-45ce-9b4c-89e59c6b2239")
+	)
+	(fp_line
+		(start -2 -3.5)
+		(end -2.5 -4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e5b3340d-cacb-4a72-90de-3ffd692c8d7c")
+	)
+	(fp_line
+		(start -2 -2)
+		(end 2 -2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "329138aa-de19-4eb8-a774-b99e84264aba")
+	)
+	(fp_line
+		(start -1.675 -1.4)
+		(end -0.825 -1.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "86d240be-582a-46ad-b5b8-19667942510f")
+	)
+	(fp_line
+		(start 0.85 -1.4)
+		(end 1.7 -1.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ebca3c64-93ea-4ec6-9d31-94e12e746618")
+	)
+	(fp_line
+		(start 1.275 -1.8)
+		(end 1.275 -1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3f0f98fa-8efd-4b3a-bfe2-db6eef803a77")
+	)
+	(fp_line
+		(start 2 -13.5)
+		(end -2 -13.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2de37faa-1876-4902-bb82-6bd54ab4cce4")
+	)
+	(fp_line
+		(start 2 -3.5)
+		(end 2.5 -4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f7879b44-9c07-412c-857b-7e160a87422f")
+	)
+	(fp_line
+		(start 2.5 -4)
+		(end 2.5 -13)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f25505d8-ae02-4391-9d3b-de7b8d8a49b4")
+	)
+	(fp_line
+		(start 2.5 -3)
+		(end 2 -3.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bd7c0a87-bd38-4265-b36b-b1fc63930c95")
+	)
+	(fp_line
+		(start 2.5 -2.5)
+		(end 2.5 -3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d3982789-94fd-4bc2-85b8-044e55503546")
+	)
+	(fp_arc
+		(start -2.5 -13)
+		(mid -2.353553 -13.353553)
+		(end -2 -13.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f5976ca2-2236-4f93-bff1-2cd4823b3b1f")
+	)
+	(fp_arc
+		(start -2 -2)
+		(mid -2.353553 -2.146447)
+		(end -2.5 -2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "11070920-f663-44b0-b654-f85449ce0477")
+	)
+	(fp_arc
+		(start 2 -13.5)
+		(mid 2.353553 -13.353553)
+		(end 2.5 -13)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7c0accbe-213a-409f-8bad-8fbcd168c4ab")
+	)
+	(fp_arc
+		(start 2.5 -2.5)
+		(mid 2.353553 -2.146447)
+		(end 2 -2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "10393f62-c013-49bb-be4a-06370561feb9")
+	)
+	(fp_poly
+		(pts
+			(xy -1.5 -2) (xy -2 -2) (xy -2.353553 -2.146447) (xy -2.5 -2.5) (xy -2.5 -3) (xy -2 -3.5) (xy -2.5 -4)
+			(xy -2.5 -13) (xy -2.353553 -13.353553) (xy -2 -13.5) (xy -1.5 -13.5)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "8323e055-f730-49d7-8a9c-1e232c0e6074")
+	)
+	(fp_rect
+		(start -2.5 -13.5)
+		(end 2.5 1.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "f1b903a2-9bcd-4ec6-9e10-1e82dca84253")
+	)
+	(fp_line
+		(start 2.25 0.5)
+		(end 3.25 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8c9b2b4d-9396-42e7-b8ee-afb6ceb72483")
+	)
+	(fp_line
+		(start 2.75 0)
+		(end 2.75 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ec68042c-f981-41d6-937d-701364e5b38d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.5 5.25 0)
+		(layer "F.Fab")
+		(uuid "5d38e23b-668a-432e-8db3-4bbb7182768b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 1.25 0)
+		(size 1.8 1.8)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1fc124d0-d630-4859-810d-977eca3bc9fb")
+	)
+	(pad "2" thru_hole circle
+		(at -1.25 0)
+		(size 1.8 1.8)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "34a4a105-cd65-4a06-8755-0a24584f0073")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/ocd/OneDrive/Drafting/CCHS/HackSynth/KiCAD/HackSynth.pretty/CP_Radial_D5.2mm_H11.5mm_Laydown_Mirror.step"
+		(offset
+			(xyz 0 0 0.25)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
