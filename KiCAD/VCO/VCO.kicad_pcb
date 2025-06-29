@@ -150,7 +150,7 @@
 	(net 30 "Net-(R17-Pad2)")
 	(net 31 "Net-(R18-Pad2)")
 	(net 32 "Net-(U1-Pad4)")
-	(net 33 "Net-(U1-Pad10)")
+	(net 33 "Net-(C4-Pad2)")
 	(footprint "HackSynth:Potentiometer_Alps_RK09K_Horizontal"
 		(layer "F.Cu")
 		(uuid "03173863-435f-44c7-984d-457d45df22a5")
@@ -5001,7 +5001,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 33 "Net-(U1-Pad10)")
+			(net 33 "Net-(C4-Pad2)")
 			(pintype "output")
 			(uuid "ef7f3007-5354-40c0-b012-17eff1333236")
 		)
@@ -5031,7 +5031,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 33 "Net-(U1-Pad10)")
+			(net 33 "Net-(C4-Pad2)")
 			(pintype "input")
 			(uuid "960b0d00-fdd5-4b1f-8d83-6933b670546f")
 		)
@@ -5985,6 +5985,229 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
+		(layer "F.Cu")
+		(uuid "880069fe-6d2b-4835-80c8-cd0bda632ff3")
+		(at 82.75 120 90)
+		(descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
+		(tags "C Disc series Radial pin pitch 2.50mm  diameter 5mm width 2.5mm Capacitor")
+		(property "Reference" "C4"
+			(at 1.25 -2.500001 90)
+			(layer "F.SilkS")
+			(uuid "ccee5f10-310f-4343-94d5-5caa75809572")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "220nF"
+			(at 1.25 2.500001 90)
+			(layer "F.Fab")
+			(uuid "cf25dd37-f7e9-454c-b9b7-80fd1ef081f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bca4b30e-bf2a-47dd-88cf-7ec96ab15554")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5711eeb1-35b3-4601-8a14-10f80af8c0e0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "C_*")
+		(path "/7f01182d-ed01-4f68-a106-90b0986cf88c")
+		(sheetname "/")
+		(sheetfile "VCO.kicad_sch")
+		(attr through_hole)
+		(fp_line
+			(start 3.87 -1.37)
+			(end 3.87 1.37)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "798c15bb-5727-4915-b69a-8c7d6be35116")
+		)
+		(fp_line
+			(start -1.37 -1.37)
+			(end 3.87 -1.37)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "541c9d74-269f-4c8f-ae17-a6bc480a4592")
+		)
+		(fp_line
+			(start -1.37 -1.37)
+			(end -1.37 1.37)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "56d9b801-f270-4af8-bda3-edb29bf9c80f")
+		)
+		(fp_line
+			(start -1.37 1.37)
+			(end 3.87 1.37)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "61926ea5-ddac-42cf-8934-8e7a495d0e95")
+		)
+		(fp_line
+			(start 4 -1.5)
+			(end -1.5 -1.5)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "640af04a-7169-4e42-8980-eff7938dad83")
+		)
+		(fp_line
+			(start -1.5 -1.5)
+			(end -1.5 1.5)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "c8b5499b-997b-4966-a86e-a485d297f5f0")
+		)
+		(fp_line
+			(start 4 1.5)
+			(end 4 -1.5)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "069b4bbf-c9db-4d6b-8706-75f18ce89fea")
+		)
+		(fp_line
+			(start -1.5 1.5)
+			(end 4 1.5)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "1bdfacd6-d37b-4700-91c6-0c1d0cbae132")
+		)
+		(fp_line
+			(start 3.75 -1.25)
+			(end -1.25 -1.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "8e44b9c5-1530-4348-8b21-1cd46c3267ce")
+		)
+		(fp_line
+			(start -1.25 -1.25)
+			(end -1.25 1.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "ea4b512a-aa0c-4c4f-bbed-957428f3fa11")
+		)
+		(fp_line
+			(start 3.75 1.25)
+			(end 3.75 -1.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "312c0527-1495-4a86-9bdb-b66d0772ec6b")
+		)
+		(fp_line
+			(start -1.25 1.25)
+			(end 3.75 1.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "8f40279c-47a9-4c15-bf39-00ce27f71774")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 1.25 0 90)
+			(layer "F.Fab")
+			(uuid "b1a38b0a-c0f9-47e4-a6a1-c3b53201715a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0 90)
+			(size 1.6 1.6)
+			(drill 0.8)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 9 "GND")
+			(pintype "passive")
+			(uuid "107b01ea-13ba-4b07-a33b-f283583ef4e6")
+		)
+		(pad "2" thru_hole circle
+			(at 2.5 0 90)
+			(size 1.6 1.6)
+			(drill 0.8)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 33 "Net-(C4-Pad2)")
+			(pintype "passive")
+			(uuid "838ae112-f0b9-4bb8-a314-1ae862d22247")
+		)
+		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D5.0mm_W2.5mm_P2.50mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)

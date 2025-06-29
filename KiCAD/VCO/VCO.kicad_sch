@@ -2429,6 +2429,12 @@
 		(uuid "72f2f592-75ae-428b-81ff-99867068869a")
 	)
 	(junction
+		(at 210.82 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "759adb60-0d54-4e56-a04f-d05886af408f")
+	)
+	(junction
 		(at 144.78 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2764,6 +2770,16 @@
 	)
 	(wire
 		(pts
+			(xy 210.82 140.97) (xy 210.82 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d05458c-6580-4725-8861-7a8a2e90d3ce")
+	)
+	(wire
+		(pts
 			(xy 260.35 69.85) (xy 246.38 69.85)
 		)
 		(stroke
@@ -2884,7 +2900,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 140.97) (xy 207.01 140.97)
+			(xy 212.09 140.97) (xy 210.82 140.97)
 		)
 		(stroke
 			(width 0)
@@ -2981,6 +2997,16 @@
 			(type default)
 		)
 		(uuid "7109c180-fefd-4edc-9938-3b6cff9f1b1a")
+	)
+	(wire
+		(pts
+			(xy 210.82 140.97) (xy 207.01 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "713bc2ae-da97-4b73-8bb2-22ade31c8c09")
 	)
 	(wire
 		(pts
@@ -3141,6 +3167,16 @@
 			(type default)
 		)
 		(uuid "93f633ea-4191-4443-b4bd-be571e5adf4c")
+	)
+	(wire
+		(pts
+			(xy 210.82 156.21) (xy 210.82 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94074b74-6e73-4b5d-a188-2d919f091b1b")
 	)
 	(wire
 		(pts
@@ -6476,6 +6512,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 210.82 151.13 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7f01182d-ed01-4f68-a106-90b0986cf88c")
+		(property "Reference" "C4"
+			(at 214.63 149.8599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "220nF"
+			(at 214.63 152.3999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
+			(at 209.8548 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 210.82 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 210.82 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "be4db187-f482-4407-975c-fdfceb0d2f9a")
+		)
+		(pin "2"
+			(uuid "887f10d2-5e5d-45fe-af44-d9d101a43f8e")
+		)
+		(instances
+			(project "VCO"
+				(path "/5da6b9e5-71b4-4d0f-a700-8382e26a6af5"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 71.12 57.15 270)
 		(unit 1)
@@ -7797,6 +7903,71 @@
 			(project "VCO"
 				(path "/5da6b9e5-71b4-4d0f-a700-8382e26a6af5"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 210.82 156.21 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c54f7f3f-2243-443d-a61c-dd855728b7cc")
+		(property "Reference" "#PWR027"
+			(at 210.82 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 210.82 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 210.82 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 210.82 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 210.82 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "459d88b8-0fc6-48d0-a1df-e58573fb1055")
+		)
+		(instances
+			(project "VCO"
+				(path "/5da6b9e5-71b4-4d0f-a700-8382e26a6af5"
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
