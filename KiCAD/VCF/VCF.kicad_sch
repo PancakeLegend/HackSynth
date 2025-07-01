@@ -12568,7 +12568,7 @@
 	)
 	(symbol
 		(lib_id "HackSynth:CCHS_Logo")
-		(at 275.59 173.355 0)
+		(at 275.59 172.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12577,7 +12577,7 @@
 		(fields_autoplaced yes)
 		(uuid "2d7f8469-2b47-4f5e-933e-0d55d4deec55")
 		(property "Reference" "G1"
-			(at 275.59 180.975 0)
+			(at 275.59 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12586,7 +12586,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 281.94 174.525 0)
+			(at 281.94 173.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12595,7 +12595,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 275.59 173.355 0)
+			(at 275.59 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12604,7 +12604,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 275.59 173.355 0)
+			(at 275.59 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12613,7 +12613,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 275.59 173.355 0)
+			(at 275.59 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16256,7 +16256,7 @@
 	)
 	(symbol
 		(lib_id "HackSynth:Logo_PancakeLegend")
-		(at 262.89 173.99 0)
+		(at 262.89 173.355 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16265,7 +16265,7 @@
 		(fields_autoplaced yes)
 		(uuid "cd6d7159-7b52-4b95-8c19-ad87353d13e5")
 		(property "Reference" "G2"
-			(at 262.89 181.61 0)
+			(at 262.89 180.975 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16274,7 +16274,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 269.24 173.8899 0)
+			(at 269.24 173.2549 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16283,7 +16283,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 262.89 173.99 0)
+			(at 262.89 173.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16292,7 +16292,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 262.89 173.99 0)
+			(at 262.89 173.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16301,7 +16301,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 262.89 173.99 0)
+			(at 262.89 173.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)

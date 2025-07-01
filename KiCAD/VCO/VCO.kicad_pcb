@@ -103,7 +103,6 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
-			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -4713,7 +4712,7 @@
 			)
 		)
 	)
-	(footprint "Package_DIP:DIP-14_W7.62mm_LongPads"
+	(footprint "HackSynth:DIP-14_W7.62mm_LongPads"
 		(layer "F.Cu")
 		(uuid "66d642e9-ce43-42f9-9211-2790fe5a50bc")
 		(at 71.25 107.63)
@@ -4778,7 +4777,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a310106d-853e-48e5-aef0-f3b8d6dd5c1b")
+			(uuid "e60e5f62-6780-48f4-85da-d0442402cf64")
 		)
 		(fp_line
 			(start 1.56 16.57)
@@ -4788,7 +4787,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "09580fcd-ba09-41e1-85b6-ebf6cf73f1ac")
+			(uuid "2b71fb54-63df-4405-a7cc-cb752d6bba2d")
 		)
 		(fp_line
 			(start 2.81 -1.33)
@@ -4798,7 +4797,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2fde7d1d-6f56-4a8c-be63-8560dbb81523")
+			(uuid "bf9a58db-c6b2-4fd2-985a-47bd3d191812")
 		)
 		(fp_line
 			(start 6.06 -1.33)
@@ -4808,7 +4807,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "fc5cbf11-02ec-404c-8827-043030a6c25c")
+			(uuid "ea20e4d9-7dc7-4a68-9f42-ba291afd08c9")
 		)
 		(fp_line
 			(start 6.06 16.57)
@@ -4818,7 +4817,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "369e576b-90cf-4233-904c-a23463f522a9")
+			(uuid "aac0d7c6-f55d-47c5-9ac1-3afba554b2a3")
 		)
 		(fp_arc
 			(start 4.81 -1.33)
@@ -4829,7 +4828,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a84fd735-13be-4bb7-9d60-54cc833de5ba")
+			(uuid "bed50ca0-c4c6-458a-a5f5-2509230fb6ee")
 		)
 		(fp_rect
 			(start -1.45 -1.53)
@@ -4840,7 +4839,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "c8db7804-e85a-4f93-83b8-7fbc513af601")
+			(uuid "6f438e2e-11ec-437d-9ef7-e4a1edf9e4cd")
 		)
 		(fp_line
 			(start 0.635 -0.27)
@@ -4850,7 +4849,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "fe85e58f-3eaa-4687-aae0-81722f908173")
+			(uuid "0d230a08-787b-4081-b9a6-c0be5a9c74da")
 		)
 		(fp_line
 			(start 0.635 16.51)
@@ -4860,7 +4859,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "9e696fb8-9747-48ff-b7e4-ed084a332f41")
+			(uuid "50c2a0e6-d322-449d-a2f9-fb0ce2572887")
 		)
 		(fp_line
 			(start 1.635 -1.27)
@@ -4870,7 +4869,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "9238fc0e-ead0-440d-85fb-c598a2afa214")
+			(uuid "e33df7f8-2f38-4311-b88c-f5b58424e32b")
 		)
 		(fp_line
 			(start 6.985 -1.27)
@@ -4880,7 +4879,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2f6f6312-b9c5-4141-a638-869fe5bf839f")
+			(uuid "01a57671-042d-42a6-8421-97cc8f227ad6")
 		)
 		(fp_line
 			(start 6.985 16.51)
@@ -4890,7 +4889,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "abbe24ba-1bfe-4573-89e1-d890e431a30b")
+			(uuid "e1da5aa0-299b-4c9f-b5de-ce752a7d1845")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 3.81 7.62 90)
@@ -5047,7 +5046,7 @@
 			(uuid "ef988ca9-f641-488d-a99c-e20f121da8d1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-14_W7.62mm_LongPads.wrl"
+		(model "C:/Users/ocd/OneDrive/Drafting/CCHS/HackSynth/KiCAD/HackSynth.pretty/DIP-14_W7.62mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8178,7 +8177,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R14"
-			(at 3.81 29.75 0)
+			(at 10.06 0 0)
 			(layer "F.SilkS")
 			(uuid "6eb5fac0-63aa-48e2-b8ac-f53d1901f9a4")
 			(effects
