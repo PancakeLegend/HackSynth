@@ -26,11 +26,12 @@
       "otherItems": false,
       "pads": false,
       "text": true,
-      "tracks": false,
-      "vias": false,
+      "tracks": true,
+      "vias": true,
       "zones": false
     },
     "visible_items": [
+      "vias",
       "footprint_text",
       "footprint_anchors",
       "ratsnest",
@@ -39,10 +40,12 @@
       "footprints_back",
       "footprint_values",
       "footprint_references",
+      "tracks",
       "drc_errors",
       "drawing_sheet",
       "bitmaps",
       "pads",
+      "zones",
       "drc_warnings",
       "conflict_shadows",
       "shapes"
