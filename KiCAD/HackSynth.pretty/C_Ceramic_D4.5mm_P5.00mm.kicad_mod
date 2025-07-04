@@ -15,7 +15,7 @@
 		)
 	)
 	(property "Value" "C_Ceramic_D4.5mm_P5.00mm"
-		(at 2.5 3.5 0)
+		(at 2.5 1 0)
 		(layer "F.Fab")
 		(uuid "252edf30-6aeb-4aad-8e81-be488107a5fb")
 		(effects
