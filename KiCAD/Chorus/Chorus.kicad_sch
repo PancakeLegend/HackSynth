@@ -10282,7 +10282,7 @@
 	)
 	(symbol
 		(lib_id "HackSynth:R")
-		(at 312.42 86.36 0)
+		(at 312.42 86.36 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10290,7 +10290,7 @@
 		(dnp no)
 		(uuid "06fd1b72-a2fc-4b8a-8c07-a71dcf254e44")
 		(property "Reference" "R16"
-			(at 314.198 85.344 0)
+			(at 316.992 87.1221 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10299,7 +10299,7 @@
 			)
 		)
 		(property "Value" "56k"
-			(at 314.198 87.1221 0)
+			(at 316.992 85.344 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10308,7 +10308,7 @@
 			)
 		)
 		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
-			(at 310.642 86.36 90)
+			(at 314.198 86.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10639,7 +10639,7 @@
 	(symbol
 		(lib_id "Device:C")
 		(at 269.24 80.01 0)
-		(mirror y)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10647,7 +10647,7 @@
 		(dnp no)
 		(uuid "10dcbd3b-f146-42c8-883a-dac32e5408a9")
 		(property "Reference" "C8"
-			(at 272.288 78.994 0)
+			(at 275.082 79.248 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10656,7 +10656,7 @@
 			)
 		)
 		(property "Value" "2.2nF"
-			(at 272.288 80.772 0)
+			(at 277.114 81.026 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10665,7 +10665,7 @@
 			)
 		)
 		(property "Footprint" "HackSynth:C_Ceramic_D4.5mm_P5.00mm"
-			(at 268.2748 83.82 0)
+			(at 270.2052 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13127,7 +13127,7 @@
 	)
 	(symbol
 		(lib_id "HackSynth:R")
-		(at 316.23 200.66 90)
+		(at 316.23 200.66 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13135,7 +13135,7 @@
 		(dnp no)
 		(uuid "5dfec312-8fb9-4e8e-8bf1-c8e6132a9694")
 		(property "Reference" "R32"
-			(at 316.357 198.501 90)
+			(at 316.23 198.374 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13151,7 +13151,7 @@
 			)
 		)
 		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
-			(at 316.23 202.438 90)
+			(at 316.23 198.882 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14187,7 +14187,7 @@
 	)
 	(symbol
 		(lib_id "HackSynth:R")
-		(at 316.23 213.36 90)
+		(at 316.23 213.36 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14195,7 +14195,7 @@
 		(dnp no)
 		(uuid "6e6338cc-26b9-4960-b852-c7c5052a592f")
 		(property "Reference" "R34"
-			(at 316.357 211.201 90)
+			(at 316.23 211.074 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14211,7 +14211,7 @@
 			)
 		)
 		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
-			(at 316.23 215.138 90)
+			(at 316.23 211.582 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14479,7 +14479,7 @@
 	)
 	(symbol
 		(lib_id "HackSynth:R")
-		(at 316.23 208.28 90)
+		(at 316.23 208.28 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14487,7 +14487,7 @@
 		(dnp no)
 		(uuid "79fb74ff-9dcb-4395-8a07-7530c082d000")
 		(property "Reference" "R33"
-			(at 316.357 206.121 90)
+			(at 316.23 205.994 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14495,7 +14495,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 316.357 208.407 90)
+			(at 316.103 208.153 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14503,7 +14503,7 @@
 			)
 		)
 		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
-			(at 316.23 210.058 90)
+			(at 316.23 206.502 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15372,7 +15372,7 @@
 	)
 	(symbol
 		(lib_id "HackSynth:R")
-		(at 316.23 193.04 90)
+		(at 316.23 193.04 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15380,7 +15380,7 @@
 		(dnp no)
 		(uuid "96489fc9-1d11-4225-8ee5-f392cabfc65a")
 		(property "Reference" "R31"
-			(at 316.23 191.008 90)
+			(at 316.23 190.754 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15388,7 +15388,7 @@
 			)
 		)
 		(property "Value" "15k"
-			(at 316.103 193.167 90)
+			(at 316.357 192.913 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15396,7 +15396,7 @@
 			)
 		)
 		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
-			(at 316.23 194.818 90)
+			(at 316.23 191.262 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16611,7 +16611,7 @@
 	(symbol
 		(lib_id "HackSynth:R")
 		(at 289.56 170.18 0)
-		(mirror y)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16619,7 +16619,7 @@
 		(dnp no)
 		(uuid "b6b8f7e3-71e5-42a5-bb25-a3edc1ae676a")
 		(property "Reference" "R27"
-			(at 287.274 169.1639 0)
+			(at 284.988 171.1961 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16628,7 +16628,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 287.274 171.196 0)
+			(at 284.988 169.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16637,7 +16637,7 @@
 			)
 		)
 		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
-			(at 291.338 170.18 90)
+			(at 287.782 170.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17124,7 +17124,7 @@
 	)
 	(symbol
 		(lib_id "HackSynth:R")
-		(at 103.505 180.975 180)
+		(at 103.505 180.975 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17132,7 +17132,7 @@
 		(dnp no)
 		(uuid "c16e935d-a136-441d-90b8-4e0efc71aed4")
 		(property "Reference" "R19"
-			(at 101.219 181.991 0)
+			(at 97.79 180.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17141,7 +17141,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 101.219 179.9589 0)
+			(at 97.79 182.1181 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17150,7 +17150,7 @@
 			)
 		)
 		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
-			(at 105.283 180.975 90)
+			(at 101.727 180.975 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17259,7 +17259,7 @@
 	)
 	(symbol
 		(lib_id "HackSynth:R")
-		(at 135.255 191.77 180)
+		(at 135.255 191.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17267,7 +17267,7 @@
 		(dnp no)
 		(uuid "c1f49353-06d2-46a8-9004-0357f3018724")
 		(property "Reference" "R22"
-			(at 132.969 192.786 0)
+			(at 130.048 190.754 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17276,7 +17276,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 132.969 190.7539 0)
+			(at 130.048 192.7861 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17285,7 +17285,7 @@
 			)
 		)
 		(property "Footprint" "HackSynth:R_Vertical_P2.54mm"
-			(at 137.033 191.77 90)
+			(at 133.477 191.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
