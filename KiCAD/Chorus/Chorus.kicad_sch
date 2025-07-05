@@ -15041,7 +15041,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8cd5b4af-fa4d-416a-8ba3-33f3e929d2fa")
-		(property "Reference" "C39"
+		(property "Reference" "C26"
 			(at 182.88 181.61 0)
 			(effects
 				(font
@@ -15095,7 +15095,7 @@
 		(instances
 			(project "Chorus"
 				(path "/a2ae5c9b-e38e-4e77-a5bd-22af573e3c3e"
-					(reference "C39")
+					(reference "C26")
 					(unit 1)
 				)
 			)
