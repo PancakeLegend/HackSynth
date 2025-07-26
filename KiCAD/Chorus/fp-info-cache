@@ -1,4 +1,4 @@
-26103853314494918
+26103853433190938
 177
 125 x 50
 
@@ -61173,6 +61173,13 @@ Logo - PancakeLegend 10mm Invert
 0
 0
 HackSynth
+Logo - Rabbit
+
+
+0
+0
+0
+HackSynth
 Module 30x100mm
 
 
@@ -61221,13 +61228,6 @@ Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4
 0
 2
 2
-HackSynth
-Rabbit
-
-
-0
-0
-0
 HackSynth
 Switch SPDT - MTS-102
 

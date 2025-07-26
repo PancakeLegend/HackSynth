@@ -239,15 +239,15 @@
 	(pad "" np_thru_hole circle
 		(at -4.4 0 90)
 		(size 4 4)
-		(drill 2)
-		(layers "*.Cu" "*.Mask")
+		(drill 2.1)
+		(layers "F&B.Cu" "*.Mask")
 		(uuid "5443836c-9f8a-4214-9f50-91a2e1c7dfa6")
 	)
 	(pad "" np_thru_hole circle
 		(at 4.4 0 90)
 		(size 4 4)
-		(drill 2)
-		(layers "*.Cu" "*.Mask")
+		(drill 2.1)
+		(layers "F&B.Cu" "*.Mask")
 		(uuid "4cb936a7-432f-4a46-92fd-29a7ebbcf8c4")
 	)
 	(pad "1" thru_hole oval
