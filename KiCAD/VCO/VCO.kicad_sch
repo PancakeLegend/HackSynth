@@ -4943,7 +4943,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "349f154d-1632-4880-a51c-3d9da6758440")
-		(property "Reference" "R3"
+		(property "Reference" "R5"
 			(at 59.69 72.39 90)
 			(effects
 				(font
@@ -4995,7 +4995,7 @@
 		(instances
 			(project ""
 				(path "/5da6b9e5-71b4-4d0f-a700-8382e26a6af5"
-					(reference "R3")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -5849,7 +5849,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a4acf78-8741-4c55-b7ff-e98e399c2c6b")
-		(property "Reference" "R4"
+		(property "Reference" "R2"
 			(at 71.12 26.67 90)
 			(effects
 				(font
@@ -5901,7 +5901,7 @@
 		(instances
 			(project ""
 				(path "/5da6b9e5-71b4-4d0f-a700-8382e26a6af5"
-					(reference "R4")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -6591,7 +6591,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8144975d-f571-42c0-bb91-69575708f202")
-		(property "Reference" "R5"
+		(property "Reference" "R3"
 			(at 71.12 50.8 90)
 			(effects
 				(font
@@ -6643,7 +6643,7 @@
 		(instances
 			(project ""
 				(path "/5da6b9e5-71b4-4d0f-a700-8382e26a6af5"
-					(reference "R5")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -6863,7 +6863,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "88c4f748-7811-4e53-aa6a-74ff1fdeaf8b")
-		(property "Reference" "R2"
+		(property "Reference" "R4"
 			(at 59.69 50.8 90)
 			(effects
 				(font
@@ -6915,7 +6915,7 @@
 		(instances
 			(project ""
 				(path "/5da6b9e5-71b4-4d0f-a700-8382e26a6af5"
-					(reference "R2")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -7170,7 +7170,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ba20bd3-849c-4844-b490-dad56a9c0a44")
-		(property "Reference" "R6"
+		(property "Reference" "R1"
 			(at 71.12 72.39 90)
 			(effects
 				(font
@@ -7222,7 +7222,7 @@
 		(instances
 			(project ""
 				(path "/5da6b9e5-71b4-4d0f-a700-8382e26a6af5"
-					(reference "R6")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -8386,7 +8386,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e30ba9d0-e937-4d08-b87b-a4335eff1683")
-		(property "Reference" "R1"
+		(property "Reference" "R6"
 			(at 59.69 26.67 90)
 			(effects
 				(font
@@ -8438,7 +8438,7 @@
 		(instances
 			(project ""
 				(path "/5da6b9e5-71b4-4d0f-a700-8382e26a6af5"
-					(reference "R1")
+					(reference "R6")
 					(unit 1)
 				)
 			)
