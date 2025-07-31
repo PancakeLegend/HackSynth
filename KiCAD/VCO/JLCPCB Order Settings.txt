@@ -1,0 +1,4 @@
+Layers: 2
+PCB Thickness: 1.6mm
+PCB Color: Blue
+Mark on PCB: Remove Mark
