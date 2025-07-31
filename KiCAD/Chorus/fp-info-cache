@@ -1,4 +1,4 @@
-26103853433190938
+26110868502805009
 177
 125 x 50
 
@@ -61180,6 +61180,13 @@ Logo - Rabbit
 0
 0
 HackSynth
+Logo - Rabbit 02
+
+
+0
+0
+0
+HackSynth
 Module 30x100mm
 
 
@@ -90733,6 +90740,27 @@ Keyboard_Text_1200
 0
 0
 0
+Pancake
+LED Cob Filament - 12mm
+
+LED
+0
+2
+2
+Pancake
+LED Cob Filament - 21mm
+
+LED
+0
+2
+2
+Pancake
+LED Cob Filament - 30.5mm
+
+LED
+0
+2
+2
 Pancake
 LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
 https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
