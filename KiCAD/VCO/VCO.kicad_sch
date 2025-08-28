@@ -5378,7 +5378,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "22K"
 			(at 189.23 50.8 90)
 			(effects
 				(font
@@ -8530,7 +8530,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "680R"
 			(at 151.13 50.8 90)
 			(effects
 				(font
