@@ -790,8 +790,8 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "J"
-			(at 0 5.334 0)
+		(property "Reference" "J1"
+			(at 0 8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -799,15 +799,14 @@
 			)
 		)
 		(property "Value" "Barrel_Jack_Switch_MountingPin"
-			(at 1.27 -6.35 0)
+			(at 0 6.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "HackSynth:BarrelJack_DC044A"
 			(at 1.27 -1.016 0)
 			(effects
 				(font
@@ -866,7 +865,7 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 -2.54) (xy -2.54 -2.54) (xy -1.27 -1.27) (xy 0 -2.54) (xy 2.54 -2.54) (xy 5.08 -2.54)
+					(xy -3.81 2.54) (xy -2.54 2.54) (xy -1.27 1.27) (xy 0 2.54) (xy 2.54 2.54) (xy 5.08 2.54)
 				)
 				(stroke
 					(width 0.254)
@@ -877,9 +876,9 @@
 				)
 			)
 			(arc
-				(start -3.302 1.905)
-				(mid -3.9343 2.54)
-				(end -3.302 3.175)
+				(start -3.302 -3.175)
+				(mid -3.9343 -2.54)
+				(end -3.302 -1.905)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -889,9 +888,9 @@
 				)
 			)
 			(arc
-				(start -3.302 1.905)
-				(mid -3.9343 2.54)
-				(end -3.302 3.175)
+				(start -3.302 -3.175)
+				(mid -3.9343 -2.54)
+				(end -3.302 -1.905)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -902,7 +901,7 @@
 			)
 			(polyline
 				(pts
-					(xy 1.27 -2.286) (xy 1.905 -1.651)
+					(xy 1.27 2.286) (xy 1.905 1.651)
 				)
 				(stroke
 					(width 0.254)
@@ -913,8 +912,8 @@
 				)
 			)
 			(rectangle
-				(start 3.683 3.175)
-				(end -3.302 1.905)
+				(start 3.683 -3.175)
+				(end -3.302 -1.905)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -925,7 +924,7 @@
 			)
 			(polyline
 				(pts
-					(xy 5.08 2.54) (xy 3.81 2.54)
+					(xy 5.08 0) (xy 1.27 0) (xy 1.27 2.286) (xy 0.635 1.651)
 				)
 				(stroke
 					(width 0.254)
@@ -937,7 +936,7 @@
 			)
 			(polyline
 				(pts
-					(xy 5.08 0) (xy 1.27 0) (xy 1.27 -2.286) (xy 0.635 -1.651)
+					(xy 5.08 -2.54) (xy 3.81 -2.54)
 				)
 				(stroke
 					(width 0.254)
@@ -997,7 +996,7 @@
 						)
 					)
 				)
-				(number "1"
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1033,7 +1032,7 @@
 						)
 					)
 				)
-				(number "2"
+				(number "1"
 					(effects
 						(font
 							(size 1.27 1.27)

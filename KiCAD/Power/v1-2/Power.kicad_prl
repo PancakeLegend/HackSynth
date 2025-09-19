@@ -1,12 +1,10 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 7,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
-    "hidden_nets": [
-      "GND"
-    ],
+    "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -18,24 +16,23 @@
       "zones": 0.6
     },
     "selection_filter": {
-      "dimensions": false,
-      "footprints": false,
-      "graphics": false,
-      "keepouts": false,
+      "dimensions": true,
+      "footprints": true,
+      "graphics": true,
+      "keepouts": true,
       "lockedItems": false,
-      "otherItems": false,
-      "pads": false,
+      "otherItems": true,
+      "pads": true,
       "text": true,
       "tracks": true,
       "vias": true,
-      "zones": false
+      "zones": true
     },
     "visible_items": [
       "vias",
       "footprint_text",
       "footprint_anchors",
       "ratsnest",
-      "grid",
       "footprints_front",
       "footprints_back",
       "footprint_values",
@@ -43,10 +40,11 @@
       "tracks",
       "drc_errors",
       "drawing_sheet",
-      "bitmaps",
       "pads",
       "zones",
       "drc_warnings",
+      "drc_exclusions",
+      "locked_item_shadows",
       "conflict_shadows",
       "shapes"
     ],
@@ -54,16 +52,19 @@
     "zone_display_mode": 0
   },
   "git": {
+    "repo_password": "",
     "repo_type": "",
     "repo_username": "",
     "ssh_key": ""
   },
   "meta": {
-    "filename": "VCO.kicad_prl",
+    "filename": "Power.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
     "col_hidden": [
+      false,
+      false,
       false,
       false,
       false,
@@ -85,7 +86,9 @@
       6,
       7,
       8,
-      9
+      9,
+      10,
+      11
     ],
     "col_widths": [
       294,
@@ -96,6 +99,8 @@
       173,
       173,
       126,
+      173,
+      173,
       173,
       173
     ],
