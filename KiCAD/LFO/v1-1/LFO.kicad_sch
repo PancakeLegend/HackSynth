@@ -3317,7 +3317,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 62.23) (xy 39.37 55.88)
+			(xy 39.37 43.18) (xy 39.37 62.23)
 		)
 		(stroke
 			(width 0)
@@ -3457,7 +3457,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 43.18) (xy 59.69 43.18)
+			(xy 39.37 43.18) (xy 41.91 43.18)
 		)
 		(stroke
 			(width 0)
@@ -3474,16 +3474,6 @@
 			(type default)
 		)
 		(uuid "66a196ed-754a-40ce-9c90-83b47fcff15f")
-	)
-	(wire
-		(pts
-			(xy 39.37 43.18) (xy 39.37 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "66ac0c3c-41c8-404a-b069-6b9cad0d5fa2")
 	)
 	(wire
 		(pts
@@ -3507,7 +3497,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 130.81) (xy 39.37 124.46)
+			(xy 39.37 111.76) (xy 39.37 130.81)
 		)
 		(stroke
 			(width 0)
@@ -3637,7 +3627,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 111.76) (xy 59.69 111.76)
+			(xy 39.37 111.76) (xy 41.91 111.76)
 		)
 		(stroke
 			(width 0)
@@ -3654,6 +3644,16 @@
 			(type default)
 		)
 		(uuid "96a22b3f-7bcf-4aa0-8176-e9ad785162c0")
+	)
+	(wire
+		(pts
+			(xy 49.53 111.76) (xy 59.69 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "979435ab-2bfa-4f17-8f73-5fd63fe79f76")
 	)
 	(wire
 		(pts
@@ -3774,16 +3774,6 @@
 			(type default)
 		)
 		(uuid "b3a02158-3e2e-4b2c-b467-830d2cff15d9")
-	)
-	(wire
-		(pts
-			(xy 39.37 111.76) (xy 39.37 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b4bce074-40d0-409a-88ee-7325f7087d4e")
 	)
 	(wire
 		(pts
@@ -3974,6 +3964,16 @@
 			(type default)
 		)
 		(uuid "e19a672a-a0ba-4800-9f74-176cf8943436")
+	)
+	(wire
+		(pts
+			(xy 49.53 43.18) (xy 59.69 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e32021de-286f-40e4-a90f-2cf9970a123e")
 	)
 	(wire
 		(pts
@@ -5844,7 +5844,7 @@
 	)
 	(symbol
 		(lib_id "HackSynth:R")
-		(at 39.37 52.07 180)
+		(at 45.72 43.18 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5852,25 +5852,23 @@
 		(dnp no)
 		(uuid "27e43d57-4eee-48ea-97a8-cbb697f1c058")
 		(property "Reference" "R1"
-			(at 37.338 51.054 0)
+			(at 45.72 36.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "10k"
-			(at 37.338 53.0861 0)
+			(at 45.72 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 41.148 52.07 90)
+			(at 45.72 41.402 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5879,7 +5877,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 39.37 52.07 0)
+			(at 45.72 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5888,7 +5886,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 39.37 52.07 0)
+			(at 45.72 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6519,7 +6517,7 @@
 	)
 	(symbol
 		(lib_id "HackSynth:R")
-		(at 39.37 120.65 180)
+		(at 45.72 111.76 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6527,25 +6525,23 @@
 		(dnp no)
 		(uuid "6329d81f-ed2a-4635-a8fd-e64f14898e0b")
 		(property "Reference" "R5"
-			(at 37.338 119.634 0)
+			(at 45.72 105.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "10k"
-			(at 37.338 121.6661 0)
+			(at 45.72 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 41.148 120.65 90)
+			(at 45.72 109.982 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6554,7 +6550,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 39.37 120.65 0)
+			(at 45.72 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6563,7 +6559,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 39.37 120.65 0)
+			(at 45.72 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)

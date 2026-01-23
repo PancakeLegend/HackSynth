@@ -3058,16 +3058,16 @@
 		(uuid "8eb0a6fc-a6e3-445d-a7f0-3e8f7b3fc947")
 	)
 	(junction
-		(at 49.53 113.03)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a80dbb63-4989-4b10-b5a1-ce1faed0f84f")
-	)
-	(junction
 		(at 49.53 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "acfb9e95-7c7b-4579-989d-9b4e1aec4005")
+	)
+	(junction
+		(at 49.53 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d8ac512e-24a2-41aa-8a7f-508b47f941f3")
 	)
 	(junction
 		(at 137.16 93.98)
@@ -3187,16 +3187,6 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 113.03) (xy 49.53 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "383727e0-46dc-4d97-9c3b-ae0b64934d66")
-	)
-	(wire
-		(pts
 			(xy 124.46 113.03) (xy 124.46 105.41)
 		)
 		(stroke
@@ -3287,7 +3277,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 93.98) (xy 69.85 93.98)
+			(xy 49.53 93.98) (xy 52.07 93.98)
 		)
 		(stroke
 			(width 0)
@@ -3307,7 +3297,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 93.98) (xy 49.53 99.06)
+			(xy 49.53 93.98) (xy 49.53 113.03)
 		)
 		(stroke
 			(width 0)
@@ -3374,6 +3364,16 @@
 			(type default)
 		)
 		(uuid "92f6e4b5-35d5-47dd-af36-b180e1bbd6ae")
+	)
+	(wire
+		(pts
+			(xy 59.69 93.98) (xy 69.85 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9396ad80-2d53-4726-a8ff-aad743ddc80c")
 	)
 	(wire
 		(pts
@@ -5408,7 +5408,7 @@
 	)
 	(symbol
 		(lib_id "HackSynth:R")
-		(at 49.53 102.87 180)
+		(at 55.88 93.98 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5416,25 +5416,23 @@
 		(dnp no)
 		(uuid "27e43d57-4eee-48ea-97a8-cbb697f1c058")
 		(property "Reference" "R1"
-			(at 47.498 101.854 0)
+			(at 55.88 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "10k"
-			(at 47.498 103.8861 0)
+			(at 55.88 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "HackSynth:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 51.308 102.87 90)
+			(at 55.88 92.202 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5443,7 +5441,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 49.53 102.87 0)
+			(at 55.88 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5452,7 +5450,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 49.53 102.87 0)
+			(at 55.88 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
