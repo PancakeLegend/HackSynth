@@ -181,7 +181,7 @@
 		(at 1.27 0)
 		(size 1.35 1.9)
 		(drill 0.75)
-		(layers "*.Cu" "*.Mask")
+		(layers "*.Cu" "*.Mask" "Eco1.User")
 		(remove_unused_layers no)
 		(uuid "8c4a1824-b2f9-4ac2-b123-0ac9bb8097ad")
 	)
