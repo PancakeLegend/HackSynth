@@ -11093,7 +11093,7 @@
 	(footprint "HackSynth:CCHS Logo - 10mm"
 		(layer "B.Cu")
 		(uuid "8bc971bb-9c31-41f1-91dc-9d1ec410bf2f")
-		(at 89.8 70.3 180)
+		(at 89.8 70 180)
 		(property "Reference" "Ref**"
 			(at 0 0 0)
 			(layer "B.SilkS")
@@ -11519,7 +11519,7 @@
 	(footprint "HackSynth:PancakeLegend Logo - 10mm"
 		(layer "B.Cu")
 		(uuid "d4967417-f36d-4822-a887-2df3622943cd")
-		(at 60 70.4 180)
+		(at 60 70.1 180)
 		(property "Reference" "Ref**"
 			(at 0 0 0)
 			(layer "B.SilkS")
@@ -11796,6 +11796,90 @@
 		)
 		(embedded_fonts no)
 	)
+	(gr_line
+		(start 80.500001 68.699998)
+		(end 80.500001 71.699997)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "169c76da-6227-4311-bb50-b279aba2962e")
+	)
+	(gr_line
+		(start 79.000001 73.2)
+		(end 70.999998 73.2)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "19239882-9ef9-4554-bdf6-0972030d447c")
+	)
+	(gr_arc
+		(start 79.000002 67.199997)
+		(mid 80.060662 67.639338)
+		(end 80.500001 68.699998)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "196c336a-56b8-4261-90cb-e83e8f6fe0b1")
+	)
+	(gr_arc
+		(start 80.500001 71.7)
+		(mid 80.060661 72.76066)
+		(end 79.000002 73.200001)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "54609670-d5b0-4a71-89d8-4731b9f57049")
+	)
+	(gr_line
+		(start 69.500001 68.7)
+		(end 69.500001 71.699999)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "791d8a8b-b674-458c-a312-2b7d63c2b197")
+	)
+	(gr_arc
+		(start 70.999998 73.2)
+		(mid 69.939339 72.760659)
+		(end 69.499999 71.7)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "80884f73-dd9b-43b8-bc6f-e9734f687da7")
+	)
+	(gr_arc
+		(start 69.500001 68.7)
+		(mid 69.939341 67.639341)
+		(end 71 67.199999)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "96a65055-7344-4382-a680-1624404822ec")
+	)
+	(gr_line
+		(start 78.999999 67.199998)
+		(end 71 67.199999)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "fc37200a-bd09-49b1-a2a7-5d3c20eeec03")
+	)
 	(gr_text "IN 2"
 		(at 60 71 0)
 		(layer "F.SilkS")
@@ -11886,7 +11970,7 @@
 		)
 	)
 	(gr_text "VCO v1-1 - Dfatpnuk / PancakeLegend 2026"
-		(at 96 53.4 0)
+		(at 75.1 131.25 0)
 		(layer "B.SilkS")
 		(uuid "2afbd545-dff1-400c-ae44-1805cc7c16cb")
 		(effects
@@ -11894,7 +11978,20 @@
 				(size 1.2 1.2)
 				(thickness 0.15)
 			)
-			(justify left bottom mirror)
+			(justify mirror)
+		)
+	)
+	(gr_text "VCO"
+		(at 75 70.4 0)
+		(layer "B.SilkS")
+		(uuid "d0aeac7a-8426-49e8-a1fc-1eea3f70c9e1")
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify mirror)
 		)
 	)
 	(segment
@@ -17236,6 +17333,15 @@
 				(xy 52.691344 50.520075) (xy 52.706201 50.518271) (xy 52.996264 50.500726) (xy 53.003751 50.5005)
 				(xy 53.065892 50.5005) (xy 96.934108 50.5005) (xy 96.996249 50.5005)
 			)
+		)
+	)
+	(group ""
+		(uuid "a496e739-12e0-4a3d-99c8-f390bab25e7d")
+		(members "169c76da-6227-4311-bb50-b279aba2962e" "19239882-9ef9-4554-bdf6-0972030d447c"
+			"196c336a-56b8-4261-90cb-e83e8f6fe0b1" "54609670-d5b0-4a71-89d8-4731b9f57049"
+			"791d8a8b-b674-458c-a312-2b7d63c2b197" "80884f73-dd9b-43b8-bc6f-e9734f687da7"
+			"96a65055-7344-4382-a680-1624404822ec" "d0aeac7a-8426-49e8-a1fc-1eea3f70c9e1"
+			"fc37200a-bd09-49b1-a2a7-5d3c20eeec03"
 		)
 	)
 	(embedded_fonts no)
